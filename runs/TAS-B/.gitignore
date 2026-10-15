@@ -1,0 +1,7 @@
+datasets/
+results/
+cache/
+assets/
+vendor/
+environment/
+__pycache__/

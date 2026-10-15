@@ -1,0 +1,50 @@
+{
+  "metric": "Recall@100",
+  "datasets": [
+    "uit-viquad",
+    "vihealthqa",
+    "zalo-legal"
+  ],
+  "models": [
+    "BM25",
+    "ANCE",
+    "TAS-B",
+    "DPR",
+    "DeepCT",
+    "SPARTA",
+    "BM25+CE",
+    "ColBERT"
+  ],
+  "values": {
+    "uit-viquad": {
+      "BM25": 0.97259,
+      "ANCE": 0.47411,
+      "TAS-B": 0.58173,
+      "DPR": 0.19137,
+      "DeepCT": 0.62741,
+      "SPARTA": 0.64518,
+      "BM25+CE": 0.97259,
+      "ColBERT": 0.79543
+    },
+    "vihealthqa": {
+      "BM25": 0.73025,
+      "ANCE": 0.32787,
+      "TAS-B": 0.40586,
+      "DPR": 0.12072,
+      "DeepCT": 0.35817,
+      "SPARTA": 0.46647,
+      "BM25+CE": 0.73025,
+      "ColBERT": 0.51863
+    },
+    "zalo-legal": {
+      "BM25": 0.91751,
+      "ANCE": 0.26523,
+      "TAS-B": 0.34074,
+      "DPR": 0.03173,
+      "DeepCT": 0.27538,
+      "SPARTA": 0.46066,
+      "BM25+CE": 0.91751,
+      "ColBERT": 0.58693
+    }
+  }
+}

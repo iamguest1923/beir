@@ -40,6 +40,18 @@ class DenseRetrievalFaissSearch(BaseSearch):
         self.mapping = {}
         self.rev_mapping = {}
 
+    def encode(self, *args, **kwargs) -> None:
+        raise NotImplementedError(
+            "FAISS search builds its index through retrieve(). "
+            "Use retrieve(), then save() to persist the index."
+        )
+
+    def search_from_files(self, *args, **kwargs) -> dict[str, dict[str, float]]:
+        raise NotImplementedError(
+            "FAISS search does not support encode_and_retrieve(). "
+            "Use load() to restore a saved index, then retrieve()."
+        )
+
     def _create_mapping_ids(self, corpus_ids):
         if not all(isinstance(doc_id, int) for doc_id in corpus_ids):
             for idx in range(len(corpus_ids)):

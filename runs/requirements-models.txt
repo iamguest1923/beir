@@ -1,0 +1,7 @@
+# Add to the existing BEIR Python 3.9 environment; no Docker.
+# Uses the installed torch/sentence-transformers/transformers and the local BEIR checkout.
+nltk>=3.8,<4
+sentencepiece>=0.1.95
+protobuf==4.25.8
+pyserini==0.12.0
+pyjnius==1.6.1

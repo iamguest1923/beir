@@ -1,0 +1,50 @@
+{
+  "metric": "nDCG@10",
+  "datasets": [
+    "nfcorpus",
+    "scifact",
+    "arguana"
+  ],
+  "models": [
+    "BM25",
+    "ANCE",
+    "TAS-B",
+    "DPR",
+    "DeepCT",
+    "SPARTA",
+    "BM25+CE",
+    "ColBERT"
+  ],
+  "values": {
+    "nfcorpus": {
+      "BM25": 0.32545,
+      "ANCE": 0.23566,
+      "TAS-B": 0.31886,
+      "DPR": 0.1881,
+      "DeepCT": 0.32047,
+      "SPARTA": 0.30091,
+      "BM25+CE": 0.35042,
+      "ColBERT": 0.30464
+    },
+    "scifact": {
+      "BM25": 0.6647,
+      "ANCE": 0.51125,
+      "TAS-B": 0.64276,
+      "DPR": 0.31775,
+      "DeepCT": 0.6859,
+      "SPARTA": 0.59784,
+      "BM25+CE": 0.68755,
+      "ColBERT": 0.67168
+    },
+    "arguana": {
+      "BM25": 0.41415,
+      "ANCE": 0.41892,
+      "TAS-B": 0.427,
+      "DPR": 0.17488,
+      "DeepCT": 0.42841,
+      "SPARTA": 0.37103,
+      "BM25+CE": 0.4172,
+      "ColBERT": 0.4053
+    }
+  }
+}

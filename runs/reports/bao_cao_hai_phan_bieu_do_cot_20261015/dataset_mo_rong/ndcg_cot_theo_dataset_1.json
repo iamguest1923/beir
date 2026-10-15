@@ -1,0 +1,50 @@
+{
+  "metric": "nDCG@10",
+  "datasets": [
+    "uit-viquad",
+    "vihealthqa",
+    "zalo-legal"
+  ],
+  "models": [
+    "BM25",
+    "ANCE",
+    "TAS-B",
+    "DPR",
+    "DeepCT",
+    "SPARTA",
+    "BM25+CE",
+    "ColBERT"
+  ],
+  "values": {
+    "uit-viquad": {
+      "BM25": 0.7685,
+      "ANCE": 0.17487,
+      "TAS-B": 0.22892,
+      "DPR": 0.04646,
+      "DeepCT": 0.33024,
+      "SPARTA": 0.2987,
+      "BM25+CE": 0.5816,
+      "ColBERT": 0.48014
+    },
+    "vihealthqa": {
+      "BM25": 0.39931,
+      "ANCE": 0.1122,
+      "TAS-B": 0.13203,
+      "DPR": 0.02436,
+      "DeepCT": 0.1259,
+      "SPARTA": 0.19593,
+      "BM25+CE": 0.31476,
+      "ColBERT": 0.24544
+    },
+    "zalo-legal": {
+      "BM25": 0.63317,
+      "ANCE": 0.10245,
+      "TAS-B": 0.15096,
+      "DPR": 0.00277,
+      "DeepCT": 0.05414,
+      "SPARTA": 0.24275,
+      "BM25+CE": 0.45505,
+      "ColBERT": 0.30538
+    }
+  }
+}

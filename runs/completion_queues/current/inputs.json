@@ -1,0 +1,92 @@
+{
+  "nfcorpus": {
+    "path": "/hdd2/devbe/code/beir/examples/retrieval/evaluation/dense/datasets/nfcorpus",
+    "sha256": {
+      "corpus.jsonl": "10cc83ef1826b1425e6a87090b5140b39b27755d5a27e48215a88611c899991f",
+      "queries.jsonl": "d024e6621b84925d485ae473d316a0c3af31c62c8068a59fb29d22f7613aef2a",
+      "qrels/test.tsv": "f8fba6ef3d4dd9c3a242a8ba4ae38276fc3622fce7dcbae764766d564542fd2a"
+    },
+    "documents": 3633,
+    "queries": 323
+  },
+  "scifact": {
+    "path": "/hdd2/devbe/code/beir/runs/ANCE/datasets/scifact",
+    "sha256": {
+      "corpus.jsonl": "dec31c8182f3d744c7d2c09423756fd1d17cbef75808db13ba01cc0aab4d1ac6",
+      "queries.jsonl": "8ff84a7c903f722981cd8d595c022660140c51867b27608a6d4910db86080313",
+      "qrels/test.tsv": "0864bb985e0ca2367ba217977e72004d549054b2b06666ed9d4825ac7c21284c"
+    },
+    "documents": 5183,
+    "queries": 300
+  },
+  "arguana": {
+    "path": "/hdd2/devbe/code/beir/runs/ANCE/datasets/arguana",
+    "sha256": {
+      "corpus.jsonl": "0627982cec4ee896df6dc98604ef6b499c83fd87a19eaaeb3f23b88bbef6cbce",
+      "queries.jsonl": "f8b7c903f95d9a2d291de3915a8fac25085e9db679f19f59fea4145bfd1df618",
+      "qrels/test.tsv": "0c47b481fa8b47fb9ca5e74bc8a017bdea14518c0e4a5d21345291180b3aca76"
+    },
+    "documents": 8674,
+    "queries": 1406
+  },
+  "scidocs": {
+    "path": "/hdd2/devbe/code/beir/runs/ANCE/datasets/scidocs",
+    "sha256": {
+      "corpus.jsonl": "328bb38854179c83ee40d4f49fae2ef7209ede7163785193cbdcd5906b28eecc",
+      "queries.jsonl": "3c85b68419bd579ff52edb58f9e7b32eb3d18bc83435edb71dbb68aaf79531d6",
+      "qrels/test.tsv": "dcd3d7f77417294bb6f338537f3c28d8a5ea72b30fe6633f407fa85528767e35"
+    },
+    "documents": 25657,
+    "queries": 1000
+  },
+  "fiqa": {
+    "path": "/hdd2/devbe/code/beir/runs/ANCE/datasets/fiqa",
+    "sha256": {
+      "corpus.jsonl": "ff593e4df9933955dc3af83be0c3fa28ac7465f627e08c2e53593e734d506517",
+      "queries.jsonl": "eede1e61d4a0188940239b53ebc2da91f577a6a34679c812d1eb9090c29877bc",
+      "qrels/test.tsv": "6adc2a640dcdd22bb8b3858f89107adef2a7c3db20a63550dfa7a0f71e379e44"
+    },
+    "documents": 57638,
+    "queries": 648
+  },
+  "trec-covid": {
+    "path": "/hdd2/devbe/code/beir/runs/ANCE/datasets/trec-covid",
+    "sha256": {
+      "corpus.jsonl": "aded69896598665082316d00df487d22212cc5a8611db05db34eb40d04ed00d7",
+      "queries.jsonl": "78f4b76bfef251a0baf37a6cea5c4ba8376cb4536c34635709aaa4a2783b208c",
+      "qrels/test.tsv": "10669ab7d526cb04f52079139fd88c3d467a0776441b046567f540582798982b"
+    },
+    "documents": 171332,
+    "queries": 50
+  },
+  "uit-viquad": {
+    "path": "/hdd2/devbe/code/beir/new/data/datasets/uit-viquad",
+    "sha256": {
+      "corpus.jsonl": "8d1996665300517f2f60733f96da1df772880aabbeba04d18d4e278cdbcb835c",
+      "queries.jsonl": "a3e89031b79911e85360e4238a3e4cee0fd26e12f4d32006af781f0c76d7a181",
+      "qrels/test.tsv": "1f6bb24d392b0afc34a3b64bbd165f2ca02633ee8e924c0bf841731dfcab9e0d"
+    },
+    "documents": 4101,
+    "queries": 1970
+  },
+  "vihealthqa": {
+    "path": "/hdd2/devbe/code/beir/new/data/datasets/vihealthqa",
+    "sha256": {
+      "corpus.jsonl": "48736882edbe0cca5dab98894c74c2ac4da35084c71e404e73a93b63b9da297b",
+      "queries.jsonl": "72f97e29d46b2185002b56518c5c54246ef280f94cca60cfe4bd7b7643213f95",
+      "qrels/test.tsv": "d0a7fda9b11f656f63a6cde1945f82609450297cf065548c0053affa397cc519"
+    },
+    "documents": 9894,
+    "queries": 2013
+  },
+  "zalo-legal": {
+    "path": "/hdd2/devbe/code/beir/new/data/datasets/zalo-legal",
+    "sha256": {
+      "corpus.jsonl": "7202e1ee5be432c19abc9702dcbd50333dc0fd2982996b9d542e072ab701bfe5",
+      "queries.jsonl": "648bc1c082bcf29c3badd0cedbf65dc76662a8f35134ffc2e2c2397594ea9bb6",
+      "qrels/test.tsv": "21b41c5d49122cdcffa18fbfc319216ac305cad6fcedf39181482cde22141bc0"
+    },
+    "documents": 61425,
+    "queries": 788
+  }
+}

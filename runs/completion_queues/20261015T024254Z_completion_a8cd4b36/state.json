@@ -1,0 +1,172 @@
+{
+  "status": "RUNNING",
+  "pid": 1016061,
+  "directory": "/hdd2/devbe/code/beir/runs/completion_queues/20261015T024254Z_completion_a8cd4b36",
+  "jobs": [
+    {
+      "model": "BM25",
+      "datasets": [
+        "scidocs",
+        "fiqa",
+        "trec-covid",
+        "uit-viquad",
+        "vihealthqa",
+        "zalo-legal"
+      ],
+      "status": "SUCCESS",
+      "lane": "CPU",
+      "pid": 1017781,
+      "started": 1792032190.595394,
+      "log": "/hdd2/devbe/code/beir/runs/completion_queues/20261015T024254Z_completion_a8cd4b36/BM25.log",
+      "directory": "/hdd2/devbe/code/beir/runs/BM25/results/20261015T024254Z_completion_a8cd4b36_BM25",
+      "exit_code": 0,
+      "elapsed_seconds": 255.24306297302246
+    },
+    {
+      "model": "ANCE",
+      "datasets": [
+        "uit-viquad",
+        "vihealthqa",
+        "zalo-legal"
+      ],
+      "status": "SUCCESS",
+      "lane": "GPU",
+      "pid": 1017785,
+      "started": 1792032190.6200213,
+      "log": "/hdd2/devbe/code/beir/runs/completion_queues/20261015T024254Z_completion_a8cd4b36/ANCE.log",
+      "directory": "/hdd2/devbe/code/beir/runs/ANCE/results/20261015T024254Z_completion_a8cd4b36_ANCE",
+      "exit_code": 0,
+      "elapsed_seconds": 2218.3864188194275
+    },
+    {
+      "model": "TAS-B",
+      "datasets": [
+        "uit-viquad",
+        "vihealthqa",
+        "zalo-legal"
+      ],
+      "status": "SUCCESS",
+      "lane": "GPU",
+      "pid": 1251374,
+      "started": 1792034431.5280857,
+      "log": "/hdd2/devbe/code/beir/runs/completion_queues/20261015T024254Z_completion_a8cd4b36/TAS-B.log",
+      "directory": "/hdd2/devbe/code/beir/runs/TAS-B/results/20261015T024254Z_completion_a8cd4b36_TAS-B",
+      "exit_code": 0,
+      "elapsed_seconds": 845.7063310146332
+    },
+    {
+      "model": "DPR",
+      "datasets": [
+        "uit-viquad",
+        "vihealthqa",
+        "zalo-legal"
+      ],
+      "status": "SUCCESS",
+      "lane": "GPU",
+      "pid": 1341716,
+      "started": 1792035306.6784484,
+      "log": "/hdd2/devbe/code/beir/runs/completion_queues/20261015T024254Z_completion_a8cd4b36/DPR.log",
+      "directory": "/hdd2/devbe/code/beir/runs/DPR/results/20261015T024254Z_completion_a8cd4b36_DPR",
+      "exit_code": 0,
+      "elapsed_seconds": 1641.370866060257
+    },
+    {
+      "model": "DeepCT",
+      "datasets": [
+        "uit-viquad",
+        "vihealthqa",
+        "zalo-legal"
+      ],
+      "status": "SUCCESS",
+      "lane": "GPU",
+      "pid": 1516668,
+      "started": 1792036978.9029021,
+      "log": "/hdd2/devbe/code/beir/runs/completion_queues/20261015T024254Z_completion_a8cd4b36/DeepCT.log",
+      "directory": "/hdd2/devbe/code/beir/runs/DeepCT/results/20261015T024254Z_completion_a8cd4b36_DeepCT",
+      "exit_code": 0,
+      "elapsed_seconds": 2767.2668373584747
+    },
+    {
+      "model": "SPARTA",
+      "datasets": [
+        "uit-viquad",
+        "vihealthqa",
+        "zalo-legal"
+      ],
+      "status": "SUCCESS",
+      "lane": "GPU",
+      "pid": 1818306,
+      "started": 1792039777.2934113,
+      "log": "/hdd2/devbe/code/beir/runs/completion_queues/20261015T024254Z_completion_a8cd4b36/SPARTA.log",
+      "directory": "/hdd2/devbe/code/beir/runs/SPARTA/results/20261015T024254Z_completion_a8cd4b36_SPARTA",
+      "exit_code": 0,
+      "elapsed_seconds": 2201.8399097919464
+    },
+    {
+      "model": "BM25+CE",
+      "datasets": [
+        "uit-viquad",
+        "vihealthqa",
+        "zalo-legal"
+      ],
+      "status": "SUCCESS",
+      "lane": "GPU",
+      "pid": 2053044,
+      "started": 1792042013.0041616,
+      "log": "/hdd2/devbe/code/beir/runs/completion_queues/20261015T024254Z_completion_a8cd4b36/BM25_CE.log",
+      "directory": "/hdd2/devbe/code/beir/runs/BM25+CE/results/20261015T024254Z_completion_a8cd4b36_BM25_CE",
+      "exit_code": 0,
+      "elapsed_seconds": 3077.5554280281067
+    },
+    {
+      "model": "ColBERT",
+      "datasets": [
+        "uit-viquad",
+        "vihealthqa",
+        "zalo-legal"
+      ],
+      "status": "SUCCESS",
+      "lane": "GPU",
+      "pid": 2378793,
+      "started": 1792045114.291177,
+      "log": "/hdd2/devbe/code/beir/runs/completion_queues/20261015T024254Z_completion_a8cd4b36/ColBERT.log",
+      "directory": "/hdd2/devbe/code/beir/runs/ColBERT/results/20261015T024254Z_completion_a8cd4b36_ColBERT",
+      "exit_code": 0,
+      "elapsed_seconds": 3162.607363462448
+    },
+    {
+      "model": "GenQ",
+      "datasets": [
+        "nfcorpus",
+        "scifact",
+        "arguana",
+        "scidocs",
+        "fiqa",
+        "trec-covid",
+        "uit-viquad",
+        "vihealthqa",
+        "zalo-legal"
+      ],
+      "status": "RUNNING",
+      "lane": "GPU",
+      "pid": 2717280,
+      "started": 1792048307.232741,
+      "log": "/hdd2/devbe/code/beir/runs/completion_queues/20261015T024254Z_completion_a8cd4b36/GenQ.log",
+      "directory": "/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ"
+    },
+    {
+      "model": "docT5query",
+      "datasets": [
+        "scidocs",
+        "fiqa",
+        "trec-covid",
+        "uit-viquad",
+        "vihealthqa",
+        "zalo-legal"
+      ],
+      "status": "PENDING"
+    }
+  ],
+  "expected_pairs": 90,
+  "verified_pairs": 75
+}

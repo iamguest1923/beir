@@ -1,0 +1,27 @@
+{
+  "captured_at": "2026-10-15T19:48:58.456036+07:00",
+  "datasets": [
+    "nfcorpus",
+    "scifact",
+    "arguana",
+    "scidocs",
+    "fiqa",
+    "trec-covid",
+    "uit-viquad",
+    "vihealthqa",
+    "zalo-legal"
+  ],
+  "models": [
+    "BM25",
+    "ANCE",
+    "TAS-B",
+    "DPR",
+    "DeepCT",
+    "SPARTA",
+    "BM25+CE",
+    "ColBERT"
+  ],
+  "verified_pairs": 72,
+  "expected_pairs": 72,
+  "source_audit": "/hdd2/devbe/code/beir/runs/reports/bao_cao_20261015_1948"
+}

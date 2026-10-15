@@ -1,0 +1,48 @@
+{
+  "sections": {
+    "dataset_bai_bao": {
+      "datasets": [
+        "nfcorpus",
+        "scifact",
+        "arguana",
+        "scidocs",
+        "fiqa",
+        "trec-covid"
+      ],
+      "models": [
+        "BM25",
+        "ANCE",
+        "TAS-B",
+        "DPR",
+        "DeepCT",
+        "SPARTA",
+        "BM25+CE",
+        "ColBERT"
+      ],
+      "results": 48
+    },
+    "dataset_mo_rong": {
+      "datasets": [
+        "uit-viquad",
+        "vihealthqa",
+        "zalo-legal"
+      ],
+      "models": [
+        "BM25",
+        "ANCE",
+        "TAS-B",
+        "DPR",
+        "DeepCT",
+        "SPARTA",
+        "BM25+CE",
+        "ColBERT"
+      ],
+      "results": 24
+    }
+  },
+  "results": 72,
+  "preserves_original_values": true,
+  "source_word": "/hdd2/devbe/code/beir/runs/reports/bao_cao_9_dataset_8_model_20261015/BAO_CAO_KET_QUA_DANH_GIA.docx",
+  "source_word_sha256": "238f296606051dc7dc099def7462f074e90d1fcd2ddbcd2b002bfe6affa46257",
+  "report_sha256": "186f028b00ccd2af38b1dededb1986cb8e3cfbcbd59aa9489cf007ac7061ef19"
+}

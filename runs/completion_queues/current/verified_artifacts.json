@@ -1,0 +1,837 @@
+{
+  "/hdd2/devbe/code/beir/runs/BM25/results/20261014T171232Z_9c1e48db/scifact": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "cc7ad2719c1eb4a62b6f11ff74a64ac6bd99e6ed197faf07b460ebc92ec10db6",
+        "ranking.run.trec": "cb5f8c6691795998ecce9ba109c5e88a5fa5a6015ca9f8dd490db8695ad8ed21"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "dec31c8182f3d744c7d2c09423756fd1d17cbef75808db13ba01cc0aab4d1ac6",
+        "queries.jsonl": "8ff84a7c903f722981cd8d595c022660140c51867b27608a6d4910db86080313",
+        "qrels/test.tsv": "0864bb985e0ca2367ba217977e72004d549054b2b06666ed9d4825ac7c21284c"
+      }
+    },
+    "verified_at": "2026-10-15T02:40:33.538303+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": true
+  },
+  "/hdd2/devbe/code/beir/runs/BM25/results/20261014T171232Z_9c1e48db/arguana": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "19e2341bcf9b825f441833b00d57779f17983760f1e33b53e60c073951f9c71e",
+        "ranking.run.trec": "c50614a337efd6165fca51f4081bbea6ae68ab825c3f4c734def57be6243cb57"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "0627982cec4ee896df6dc98604ef6b499c83fd87a19eaaeb3f23b88bbef6cbce",
+        "queries.jsonl": "f8b7c903f95d9a2d291de3915a8fac25085e9db679f19f59fea4145bfd1df618",
+        "qrels/test.tsv": "0c47b481fa8b47fb9ca5e74bc8a017bdea14518c0e4a5d21345291180b3aca76"
+      }
+    },
+    "verified_at": "2026-10-15T02:40:38.303863+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": true
+  },
+  "/hdd2/devbe/code/beir/runs/ANCE/results/20261014T094420Z_6a583e27/nfcorpus": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "e3199a05fc722eb3219b0c81d224b5ef01061d2a4e6b2d9b6f8caa2cb9f5809c",
+        "ranking.run.trec": "d575608d1d5fa87e873c2ffffab0b84bdc52efecae35a7e871d66b34a4ced99b"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "10cc83ef1826b1425e6a87090b5140b39b27755d5a27e48215a88611c899991f",
+        "queries.jsonl": "d024e6621b84925d485ae473d316a0c3af31c62c8068a59fb29d22f7613aef2a",
+        "qrels/test.tsv": "f8fba6ef3d4dd9c3a242a8ba4ae38276fc3622fce7dcbae764766d564542fd2a"
+      }
+    },
+    "verified_at": "2026-10-15T02:40:39.261870+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": true
+  },
+  "/hdd2/devbe/code/beir/runs/ANCE/results/20261014T094420Z_6a583e27/scifact": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "a617e0fc80d8caa970fdc3c8111372e32805d730d3c37eb0fb73e96eb052eb2e",
+        "ranking.run.trec": "4d19d06380192c2b1c9926af5aa104d30aeabf196fe95920e77f25bd6ad975bf"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "dec31c8182f3d744c7d2c09423756fd1d17cbef75808db13ba01cc0aab4d1ac6",
+        "queries.jsonl": "8ff84a7c903f722981cd8d595c022660140c51867b27608a6d4910db86080313",
+        "qrels/test.tsv": "0864bb985e0ca2367ba217977e72004d549054b2b06666ed9d4825ac7c21284c"
+      }
+    },
+    "verified_at": "2026-10-15T02:40:40.082586+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": true
+  },
+  "/hdd2/devbe/code/beir/runs/ANCE/results/20261014T094420Z_6a583e27/arguana": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "cc237ca48ab3a4c9bc5c32d4a707cb4d36745ba8f18df1e84ef02e48fb665480",
+        "ranking.run.trec": "535029d9248567ed6c4f107db03cb795b86a8e56e83a50969447e53c12764fd6"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "0627982cec4ee896df6dc98604ef6b499c83fd87a19eaaeb3f23b88bbef6cbce",
+        "queries.jsonl": "f8b7c903f95d9a2d291de3915a8fac25085e9db679f19f59fea4145bfd1df618",
+        "qrels/test.tsv": "0c47b481fa8b47fb9ca5e74bc8a017bdea14518c0e4a5d21345291180b3aca76"
+      }
+    },
+    "verified_at": "2026-10-15T02:40:44.658306+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": true
+  },
+  "/hdd2/devbe/code/beir/runs/ANCE/results/20261014T094420Z_6a583e27/scidocs": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "041f76c0500a9c9b3f72e8bcc2b0a395fef023e80f7bbc6a79863ed267167364",
+        "ranking.run.trec": "ae6f4fbe6cd27a2b3004004152a1da24ac7ee2f3181a98d7e59875b88a4f9d70"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "328bb38854179c83ee40d4f49fae2ef7209ede7163785193cbdcd5906b28eecc",
+        "queries.jsonl": "3c85b68419bd579ff52edb58f9e7b32eb3d18bc83435edb71dbb68aaf79531d6",
+        "qrels/test.tsv": "dcd3d7f77417294bb6f338537f3c28d8a5ea72b30fe6633f407fa85528767e35"
+      }
+    },
+    "verified_at": "2026-10-15T02:40:48.983096+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": true
+  },
+  "/hdd2/devbe/code/beir/runs/ANCE/results/20261014T094420Z_6a583e27/fiqa": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "473980bdcba1e5a9005a42a6a5e79cc8bab1dc494f657c202bc2fa7b33eeebb3",
+        "ranking.run.trec": "dd416e668fed54de2439e2cdc6b54037b33a44e3b03966c8c607c8273f1d755b"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "ff593e4df9933955dc3af83be0c3fa28ac7465f627e08c2e53593e734d506517",
+        "queries.jsonl": "eede1e61d4a0188940239b53ebc2da91f577a6a34679c812d1eb9090c29877bc",
+        "qrels/test.tsv": "6adc2a640dcdd22bb8b3858f89107adef2a7c3db20a63550dfa7a0f71e379e44"
+      }
+    },
+    "verified_at": "2026-10-15T02:40:50.867141+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": true
+  },
+  "/hdd2/devbe/code/beir/runs/ANCE/results/20261014T094420Z_6a583e27/trec-covid": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "81840c46875e04c1bab059feee1273044a39918a36b4e4344b520271a30ece8c",
+        "ranking.run.trec": "5a72ae5b35534c7597188481e1db5f69817c40f9d038a63d66770230de25a709"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "aded69896598665082316d00df487d22212cc5a8611db05db34eb40d04ed00d7",
+        "queries.jsonl": "78f4b76bfef251a0baf37a6cea5c4ba8376cb4536c34635709aaa4a2783b208c",
+        "qrels/test.tsv": "10669ab7d526cb04f52079139fd88c3d467a0776441b046567f540582798982b"
+      }
+    },
+    "verified_at": "2026-10-15T02:40:51.868238+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": true
+  },
+  "/hdd2/devbe/code/beir/runs/TAS-B/results/20261014T182619Z_parallel_e4ecf074_TAS-B/nfcorpus": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "8508d1f5c2eb95a1c806114759e6dfabd2c0f641dbeb994b664befe23a43bd94",
+        "ranking.run.trec": "616010770df0e363b3136f06c13756e52cc58c43ca7a3b3d6797cb26a9937953"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "10cc83ef1826b1425e6a87090b5140b39b27755d5a27e48215a88611c899991f",
+        "queries.jsonl": "d024e6621b84925d485ae473d316a0c3af31c62c8068a59fb29d22f7613aef2a",
+        "qrels/test.tsv": "f8fba6ef3d4dd9c3a242a8ba4ae38276fc3622fce7dcbae764766d564542fd2a"
+      }
+    },
+    "verified_at": "2026-10-15T02:40:52.653689+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/TAS-B/results/20261014T182619Z_parallel_e4ecf074_TAS-B/scifact": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "a07446c3a6a361d9408ebd77135accd4d9fc0d147a24c189c6f2ad6f335bd0e8",
+        "ranking.run.trec": "73554801c9df9491bfaff00be3d98829de15b2b2ff3f84fe449d906ffe769f68"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "dec31c8182f3d744c7d2c09423756fd1d17cbef75808db13ba01cc0aab4d1ac6",
+        "queries.jsonl": "8ff84a7c903f722981cd8d595c022660140c51867b27608a6d4910db86080313",
+        "qrels/test.tsv": "0864bb985e0ca2367ba217977e72004d549054b2b06666ed9d4825ac7c21284c"
+      }
+    },
+    "verified_at": "2026-10-15T02:40:53.364172+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/TAS-B/results/20261014T182619Z_parallel_e4ecf074_TAS-B/arguana": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "82271161528526e59232b7892cf17930de8d0fbf720d0065f764d17f2a50d945",
+        "ranking.run.trec": "22a7b3fcd257243b1a1afe54186303ee2cbafb05b9efb7a83769d4cfc89009fb"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "0627982cec4ee896df6dc98604ef6b499c83fd87a19eaaeb3f23b88bbef6cbce",
+        "queries.jsonl": "f8b7c903f95d9a2d291de3915a8fac25085e9db679f19f59fea4145bfd1df618",
+        "qrels/test.tsv": "0c47b481fa8b47fb9ca5e74bc8a017bdea14518c0e4a5d21345291180b3aca76"
+      }
+    },
+    "verified_at": "2026-10-15T02:40:57.343263+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/TAS-B/results/20261014T182619Z_parallel_e4ecf074_TAS-B/scidocs": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "b65268849059a3f6f54b21bac0f221c724b950a58955e0e50b977b06ff44abc4",
+        "ranking.run.trec": "2bfd389ff07fded6b2acb6a0ec77f9380f0731da5e497e2533e4480ae17d445d"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "328bb38854179c83ee40d4f49fae2ef7209ede7163785193cbdcd5906b28eecc",
+        "queries.jsonl": "3c85b68419bd579ff52edb58f9e7b32eb3d18bc83435edb71dbb68aaf79531d6",
+        "qrels/test.tsv": "dcd3d7f77417294bb6f338537f3c28d8a5ea72b30fe6633f407fa85528767e35"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:00.401475+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/TAS-B/results/20261014T182619Z_parallel_e4ecf074_TAS-B/fiqa": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "d64572a5ca2910d7a7ccd4af479067d003feaa530d7aff6b3be026cbe4b4dd5e",
+        "ranking.run.trec": "613288efac95a8e34c6660f08cce1e8e036c95893dacea7365c05ab4b9e10c2d"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "ff593e4df9933955dc3af83be0c3fa28ac7465f627e08c2e53593e734d506517",
+        "queries.jsonl": "eede1e61d4a0188940239b53ebc2da91f577a6a34679c812d1eb9090c29877bc",
+        "qrels/test.tsv": "6adc2a640dcdd22bb8b3858f89107adef2a7c3db20a63550dfa7a0f71e379e44"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:02.051683+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/TAS-B/results/20261014T182619Z_parallel_e4ecf074_TAS-B/trec-covid": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "630aa8077425b40a2a538cae1de4d6d755110ed615a069bc9493e53134cb030f",
+        "ranking.run.trec": "3967fdeb06339be11463783022e14689d62424e963a389b3bc7d9d4cc69ddd56"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "aded69896598665082316d00df487d22212cc5a8611db05db34eb40d04ed00d7",
+        "queries.jsonl": "78f4b76bfef251a0baf37a6cea5c4ba8376cb4536c34635709aaa4a2783b208c",
+        "qrels/test.tsv": "10669ab7d526cb04f52079139fd88c3d467a0776441b046567f540582798982b"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:02.362228+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/DPR/results/20261014T182619Z_parallel_e4ecf074_DPR/nfcorpus": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "8830b793b818e2ede99727329eb9438a63900bf8daa8df4e9a79448c8eba9993",
+        "ranking.run.trec": "b9ad0160dac479d48f2600cd31d0d6a30b9fdb32aa7887c2b4d259a970dba7c1"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "10cc83ef1826b1425e6a87090b5140b39b27755d5a27e48215a88611c899991f",
+        "queries.jsonl": "d024e6621b84925d485ae473d316a0c3af31c62c8068a59fb29d22f7613aef2a",
+        "qrels/test.tsv": "f8fba6ef3d4dd9c3a242a8ba4ae38276fc3622fce7dcbae764766d564542fd2a"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:03.268912+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/DPR/results/20261014T182619Z_parallel_e4ecf074_DPR/scifact": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "474baee13f765510f13154f061b7da9a5600c6b9ee7a3497ac862fc77a1811a4",
+        "ranking.run.trec": "a997e8a05a7604108c2f046771c19b4cdd4a8e8b9a5268348f7b89382d3cb876"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "dec31c8182f3d744c7d2c09423756fd1d17cbef75808db13ba01cc0aab4d1ac6",
+        "queries.jsonl": "8ff84a7c903f722981cd8d595c022660140c51867b27608a6d4910db86080313",
+        "qrels/test.tsv": "0864bb985e0ca2367ba217977e72004d549054b2b06666ed9d4825ac7c21284c"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:04.103432+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/DPR/results/20261014T182619Z_parallel_e4ecf074_DPR/arguana": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "8c837c75a13cd3c506520c198f07a6410dc8915034d3f914a4467f891cb4ab0e",
+        "ranking.run.trec": "9b0db04089cb3d578c361e3f9aab522d5d7479e464541f406904053151863194"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "0627982cec4ee896df6dc98604ef6b499c83fd87a19eaaeb3f23b88bbef6cbce",
+        "queries.jsonl": "f8b7c903f95d9a2d291de3915a8fac25085e9db679f19f59fea4145bfd1df618",
+        "qrels/test.tsv": "0c47b481fa8b47fb9ca5e74bc8a017bdea14518c0e4a5d21345291180b3aca76"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:09.176922+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/DPR/results/20261014T182619Z_parallel_e4ecf074_DPR/scidocs": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "098ce62aa3bac4fe1d0f92f526739dc7a944cfda22cfd6701435aff0c59e3163",
+        "ranking.run.trec": "467c4cd50d7f54c59102c68d017fe45202608aebf19de46fb4a2d3d2ac2bb47c"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "328bb38854179c83ee40d4f49fae2ef7209ede7163785193cbdcd5906b28eecc",
+        "queries.jsonl": "3c85b68419bd579ff52edb58f9e7b32eb3d18bc83435edb71dbb68aaf79531d6",
+        "qrels/test.tsv": "dcd3d7f77417294bb6f338537f3c28d8a5ea72b30fe6633f407fa85528767e35"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:12.823122+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/DPR/results/20261014T182619Z_parallel_e4ecf074_DPR/fiqa": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "419f6da1e7ae0b009aa651ea8f2243c628331261c684174449743fd9a1e03d34",
+        "ranking.run.trec": "e2a38eefe3c0d5982b632a12fc292a8a23d6903968a01aab58fd95e52f5c48c1"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "ff593e4df9933955dc3af83be0c3fa28ac7465f627e08c2e53593e734d506517",
+        "queries.jsonl": "eede1e61d4a0188940239b53ebc2da91f577a6a34679c812d1eb9090c29877bc",
+        "qrels/test.tsv": "6adc2a640dcdd22bb8b3858f89107adef2a7c3db20a63550dfa7a0f71e379e44"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:14.599982+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/DPR/results/20261014T182619Z_parallel_e4ecf074_DPR/trec-covid": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "42b8f96cf998ae4bd7ac28b8243eb949675b5358b66b96d6fa43532e182fd87f",
+        "ranking.run.trec": "330ac95c40a7ac477762cceb214357b11f778a0deaf90ab3505c92f70a10cb18"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "aded69896598665082316d00df487d22212cc5a8611db05db34eb40d04ed00d7",
+        "queries.jsonl": "78f4b76bfef251a0baf37a6cea5c4ba8376cb4536c34635709aaa4a2783b208c",
+        "qrels/test.tsv": "10669ab7d526cb04f52079139fd88c3d467a0776441b046567f540582798982b"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:14.901182+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/DeepCT/results/20261014T182619Z_parallel_e4ecf074_DeepCT/scifact": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "a9769b0cc9909f474f20d9d9214fb48152f2b6edaea1e6efb88becbbaa9817ab",
+        "ranking.run.trec": "ce8c1a8386a57f45d7a15ae99bd72c5e68203db1af166ae083156716b511d334"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "dec31c8182f3d744c7d2c09423756fd1d17cbef75808db13ba01cc0aab4d1ac6",
+        "queries.jsonl": "8ff84a7c903f722981cd8d595c022660140c51867b27608a6d4910db86080313",
+        "qrels/test.tsv": "0864bb985e0ca2367ba217977e72004d549054b2b06666ed9d4825ac7c21284c"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:15.845713+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/DeepCT/results/20261014T182619Z_parallel_e4ecf074_DeepCT/arguana": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "bf63847df71dac1ca00b9b3c7881b4c9a10e4681df381ecbff36c92bdbe3b73a",
+        "ranking.run.trec": "d7ee48f80871acd4bcf125228617875debcb0bee65ccb7a993a4642d04f0526c"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "0627982cec4ee896df6dc98604ef6b499c83fd87a19eaaeb3f23b88bbef6cbce",
+        "queries.jsonl": "f8b7c903f95d9a2d291de3915a8fac25085e9db679f19f59fea4145bfd1df618",
+        "qrels/test.tsv": "0c47b481fa8b47fb9ca5e74bc8a017bdea14518c0e4a5d21345291180b3aca76"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:19.848804+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/DeepCT/results/20261014T182619Z_parallel_e4ecf074_DeepCT/scidocs": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "6c036c31c469b34052e96ac20000606b1c7132434b12667a99b0b94a37b9f432",
+        "ranking.run.trec": "2e3838ba6e94432b7bc86ed561d43fd261793975568dd08bbb9598948e6cd502"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "328bb38854179c83ee40d4f49fae2ef7209ede7163785193cbdcd5906b28eecc",
+        "queries.jsonl": "3c85b68419bd579ff52edb58f9e7b32eb3d18bc83435edb71dbb68aaf79531d6",
+        "qrels/test.tsv": "dcd3d7f77417294bb6f338537f3c28d8a5ea72b30fe6633f407fa85528767e35"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:22.934605+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/DeepCT/results/20261014T182619Z_parallel_e4ecf074_DeepCT/fiqa": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "2549be1df65ff00078e09fe2638715b2eea394403cfc6e1ce65bcfd1e1b8b0d9",
+        "ranking.run.trec": "74645db92d04e62c1edc958d15cba503648caf2e28880d8ad70f21deb5aec886"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "ff593e4df9933955dc3af83be0c3fa28ac7465f627e08c2e53593e734d506517",
+        "queries.jsonl": "eede1e61d4a0188940239b53ebc2da91f577a6a34679c812d1eb9090c29877bc",
+        "qrels/test.tsv": "6adc2a640dcdd22bb8b3858f89107adef2a7c3db20a63550dfa7a0f71e379e44"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:24.565834+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/DeepCT/results/20261014T182619Z_parallel_e4ecf074_DeepCT/trec-covid": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "88a8e3a46cb5169dc0d870a258e4ff7db7892b7eb5cfe77c2565ff0be3cc4ee5",
+        "ranking.run.trec": "9de7fa5caa1dfba57a5c52df7e7c7c8234f4b0791a90f07eb6c5e589d4577c6f"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "aded69896598665082316d00df487d22212cc5a8611db05db34eb40d04ed00d7",
+        "queries.jsonl": "78f4b76bfef251a0baf37a6cea5c4ba8376cb4536c34635709aaa4a2783b208c",
+        "qrels/test.tsv": "10669ab7d526cb04f52079139fd88c3d467a0776441b046567f540582798982b"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:24.875831+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/SPARTA/results/20261014T174813Z_92902bec_SPARTA/nfcorpus": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "3423dd48f6e0c3556ace6b7878b2815acf9be8a6d640344d8a2e543007d54115",
+        "ranking.run.trec": "50f56c754cf1032a9f9a347500a73367ce409c2aa75189135c38cdbea89ebbde"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "10cc83ef1826b1425e6a87090b5140b39b27755d5a27e48215a88611c899991f",
+        "queries.jsonl": "d024e6621b84925d485ae473d316a0c3af31c62c8068a59fb29d22f7613aef2a",
+        "qrels/test.tsv": "f8fba6ef3d4dd9c3a242a8ba4ae38276fc3622fce7dcbae764766d564542fd2a"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:25.768758+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/SPARTA/results/20261014T174813Z_92902bec_SPARTA/scifact": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "825d1f757b34554d93b7b75f373b9decc6ffe90288f302e2e37d10f040dda202",
+        "ranking.run.trec": "7fc366e2e8be2f4d1af9d1905c09cb27b5f4b740a0c807c2e4dcfa1fcc293bb0"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "dec31c8182f3d744c7d2c09423756fd1d17cbef75808db13ba01cc0aab4d1ac6",
+        "queries.jsonl": "8ff84a7c903f722981cd8d595c022660140c51867b27608a6d4910db86080313",
+        "qrels/test.tsv": "0864bb985e0ca2367ba217977e72004d549054b2b06666ed9d4825ac7c21284c"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:26.624526+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/SPARTA/results/20261014T174813Z_92902bec_SPARTA/arguana": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "4e0ee004205058b8aa581721f1c4decc34329f0ba5d44942fc64abafc54e6f39",
+        "ranking.run.trec": "da8821642366e6ed96e21ea712ef954644efd4865dfaa89fbbdce4cfc74c3918"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "0627982cec4ee896df6dc98604ef6b499c83fd87a19eaaeb3f23b88bbef6cbce",
+        "queries.jsonl": "f8b7c903f95d9a2d291de3915a8fac25085e9db679f19f59fea4145bfd1df618",
+        "qrels/test.tsv": "0c47b481fa8b47fb9ca5e74bc8a017bdea14518c0e4a5d21345291180b3aca76"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:30.680342+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/SPARTA/results/20261014T174813Z_92902bec_SPARTA/scidocs": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "00d6547e94ce78b721f1dbbce1a417247ba709bf9d478c45d61b8c9ba44e5a3e",
+        "ranking.run.trec": "e9bf3b16a4202300918e3cb89f165c16b7589b80c1a270d88070e7fb7fc2f112"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "328bb38854179c83ee40d4f49fae2ef7209ede7163785193cbdcd5906b28eecc",
+        "queries.jsonl": "3c85b68419bd579ff52edb58f9e7b32eb3d18bc83435edb71dbb68aaf79531d6",
+        "qrels/test.tsv": "dcd3d7f77417294bb6f338537f3c28d8a5ea72b30fe6633f407fa85528767e35"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:33.806606+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/SPARTA/results/20261014T174813Z_92902bec_SPARTA/fiqa": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "c6281d5902c056fe1695a103221ac57b9c6aab33429f6f7919c91693e4866341",
+        "ranking.run.trec": "6d91ebd67a4a8340f0780433e618e064455c31afeaa4e214d63079714fdbddbc"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "ff593e4df9933955dc3af83be0c3fa28ac7465f627e08c2e53593e734d506517",
+        "queries.jsonl": "eede1e61d4a0188940239b53ebc2da91f577a6a34679c812d1eb9090c29877bc",
+        "qrels/test.tsv": "6adc2a640dcdd22bb8b3858f89107adef2a7c3db20a63550dfa7a0f71e379e44"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:35.606995+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/SPARTA/results/20261014T174813Z_92902bec_SPARTA/trec-covid": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "38f0f80bfad33450244b40ba6fcd845738426f5d63183e77cd25159ec18cd240",
+        "ranking.run.trec": "17fdd0130500effadfcc3e29ab96a352ce13972325783e1deec7428fa09e7da8"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "aded69896598665082316d00df487d22212cc5a8611db05db34eb40d04ed00d7",
+        "queries.jsonl": "78f4b76bfef251a0baf37a6cea5c4ba8376cb4536c34635709aaa4a2783b208c",
+        "qrels/test.tsv": "10669ab7d526cb04f52079139fd88c3d467a0776441b046567f540582798982b"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:35.912389+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/BM25+CE/results/20261014T182619Z_parallel_e4ecf074_BM25_CE/scifact": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "132ea97be5585bd0c24a05b351c0afd2babcc99fcaf2e0e3ec56c9fd0a8aa2cd",
+        "ranking.run.trec": "99ae5dd4f2bd29c3f72010503a75fa7b0a8a97fe72698b6811f31a8d8eb25e30"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "dec31c8182f3d744c7d2c09423756fd1d17cbef75808db13ba01cc0aab4d1ac6",
+        "queries.jsonl": "8ff84a7c903f722981cd8d595c022660140c51867b27608a6d4910db86080313",
+        "qrels/test.tsv": "0864bb985e0ca2367ba217977e72004d549054b2b06666ed9d4825ac7c21284c"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:36.088941+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/BM25+CE/results/20261014T182619Z_parallel_e4ecf074_BM25_CE/arguana": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "3ed80a80722fd48107c9d677255a64f9dfb278378d47a3c95e37ab1a54c87450",
+        "ranking.run.trec": "0e85c8990ac2538dae36d3d8ec5d654702543091e13eb7ca82f82efd8e30359e"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "0627982cec4ee896df6dc98604ef6b499c83fd87a19eaaeb3f23b88bbef6cbce",
+        "queries.jsonl": "f8b7c903f95d9a2d291de3915a8fac25085e9db679f19f59fea4145bfd1df618",
+        "qrels/test.tsv": "0c47b481fa8b47fb9ca5e74bc8a017bdea14518c0e4a5d21345291180b3aca76"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:36.651617+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/BM25+CE/results/20261015T010034Z_recovery_ea58b155_BM25_CE/scidocs": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "33669a9a42c254161777fb4ee6784fa8430373657f3fe3510183e947e953923c",
+        "ranking.run.trec": "341b998078d311a754e0a4b06233924e745076d35b3e74d6a3ea60bf83b4b851"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "328bb38854179c83ee40d4f49fae2ef7209ede7163785193cbdcd5906b28eecc",
+        "queries.jsonl": "3c85b68419bd579ff52edb58f9e7b32eb3d18bc83435edb71dbb68aaf79531d6",
+        "qrels/test.tsv": "dcd3d7f77417294bb6f338537f3c28d8a5ea72b30fe6633f407fa85528767e35"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:37.072494+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/BM25+CE/results/20261015T010034Z_recovery_ea58b155_BM25_CE/fiqa": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "d49f3cb52d3bb13fc1bb828a2416d37e0af223df8b7c91fec0f3b8c55d0440eb",
+        "ranking.run.trec": "f6a6769649312b71817b28fcd0a3d4b3a3d5b2952798bb9fe7f67fa9b9aacc88"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "ff593e4df9933955dc3af83be0c3fa28ac7465f627e08c2e53593e734d506517",
+        "queries.jsonl": "eede1e61d4a0188940239b53ebc2da91f577a6a34679c812d1eb9090c29877bc",
+        "qrels/test.tsv": "6adc2a640dcdd22bb8b3858f89107adef2a7c3db20a63550dfa7a0f71e379e44"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:37.259137+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/BM25+CE/results/20261015T010034Z_recovery_ea58b155_BM25_CE/trec-covid": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "5e7c62e9d188fbdc0cc0fe5d5434857abcded309e55b3fd70b7490e57d50bed9",
+        "ranking.run.trec": "cc04ef3ffe49e3f373576dd25ef5b970697ae79127b922e7278707bd5c651aa5"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "aded69896598665082316d00df487d22212cc5a8611db05db34eb40d04ed00d7",
+        "queries.jsonl": "78f4b76bfef251a0baf37a6cea5c4ba8376cb4536c34635709aaa4a2783b208c",
+        "qrels/test.tsv": "10669ab7d526cb04f52079139fd88c3d467a0776441b046567f540582798982b"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:37.435926+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/ColBERT/results/20261014T182619Z_parallel_e4ecf074_ColBERT/nfcorpus": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "280d353543f57726c68479d2feb2802168a7f41b08914f6100b4fa1fcc7b4575",
+        "ranking.run.trec": "f8290f0a3919108c89ae0fcaa6a59d1ddb07ba38a86db00ae39fcb5b9460b0d5"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "10cc83ef1826b1425e6a87090b5140b39b27755d5a27e48215a88611c899991f",
+        "queries.jsonl": "d024e6621b84925d485ae473d316a0c3af31c62c8068a59fb29d22f7613aef2a",
+        "qrels/test.tsv": "f8fba6ef3d4dd9c3a242a8ba4ae38276fc3622fce7dcbae764766d564542fd2a"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:37.585862+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/ColBERT/results/20261014T182619Z_parallel_e4ecf074_ColBERT/scifact": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "d29362ef3bc95ccc3bdb57e177c5ae1c25a8a546ab7ec7ac5410a39a066563cf",
+        "ranking.run.trec": "fe9298591cff6a03ed2969a877beff78eef47b72317e41ec85a94d8d9598eaf3"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "dec31c8182f3d744c7d2c09423756fd1d17cbef75808db13ba01cc0aab4d1ac6",
+        "queries.jsonl": "8ff84a7c903f722981cd8d595c022660140c51867b27608a6d4910db86080313",
+        "qrels/test.tsv": "0864bb985e0ca2367ba217977e72004d549054b2b06666ed9d4825ac7c21284c"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:37.702255+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/ColBERT/results/20261015T010034Z_recovery_ea58b155_ColBERT/arguana": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "06315f2c330b077b2d96a4387b76169f60101712977ad96eced7ef22196d8521",
+        "ranking.run.trec": "13c754529ca8e00563f7790c7c287441875bb54efe43fd2bb1cacc05fda8abc2"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "0627982cec4ee896df6dc98604ef6b499c83fd87a19eaaeb3f23b88bbef6cbce",
+        "queries.jsonl": "f8b7c903f95d9a2d291de3915a8fac25085e9db679f19f59fea4145bfd1df618",
+        "qrels/test.tsv": "0c47b481fa8b47fb9ca5e74bc8a017bdea14518c0e4a5d21345291180b3aca76"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:38.054306+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/ColBERT/results/20261015T010034Z_recovery_ea58b155_ColBERT/scidocs": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "33cd51766c22f3431b3aa3112d8c630faf6066870128da0bc0799e9cbe51118f",
+        "ranking.run.trec": "36daeaa214ee7bdffc53ee4d24aaff422bcc214534aa41edf6db76e81824c391"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "328bb38854179c83ee40d4f49fae2ef7209ede7163785193cbdcd5906b28eecc",
+        "queries.jsonl": "3c85b68419bd579ff52edb58f9e7b32eb3d18bc83435edb71dbb68aaf79531d6",
+        "qrels/test.tsv": "dcd3d7f77417294bb6f338537f3c28d8a5ea72b30fe6633f407fa85528767e35"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:38.417429+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/ColBERT/results/20261015T010034Z_recovery_ea58b155_ColBERT/fiqa": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "ee7fe073eb77c2543f2e8191a012c6ed5b4cab7671d783a6f6275dba0abcf841",
+        "ranking.run.trec": "72905d66b8696acad0d155b277483c65f1af3fd85bdd14631677f8d7dbff8d8c"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "ff593e4df9933955dc3af83be0c3fa28ac7465f627e08c2e53593e734d506517",
+        "queries.jsonl": "eede1e61d4a0188940239b53ebc2da91f577a6a34679c812d1eb9090c29877bc",
+        "qrels/test.tsv": "6adc2a640dcdd22bb8b3858f89107adef2a7c3db20a63550dfa7a0f71e379e44"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:38.563396+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/ColBERT/results/20261014T182619Z_parallel_e4ecf074_ColBERT/trec-covid": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "911ba990ccd55c77ac7363876b64edd5ff5eb4a4ecd8c75196f3a4bc1766399f",
+        "ranking.run.trec": "f471d7bda73fd6da2867c93b8ccffb2c0d286a6df8553935bda60beb4cd22a69"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "aded69896598665082316d00df487d22212cc5a8611db05db34eb40d04ed00d7",
+        "queries.jsonl": "78f4b76bfef251a0baf37a6cea5c4ba8376cb4536c34635709aaa4a2783b208c",
+        "qrels/test.tsv": "10669ab7d526cb04f52079139fd88c3d467a0776441b046567f540582798982b"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:38.734627+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/docT5query/results/20261014T182619Z_parallel_e4ecf074_docT5query/scifact": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "b1dcca38e5477fb24220e432cead97b5e943b3da690f8cd9db4725d6c7c2d175",
+        "ranking.run.trec": "786aa4c0345c49609325c90173ab2eb0a97e2d7ea84ebdf87caaa73fcd3b1091"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "dec31c8182f3d744c7d2c09423756fd1d17cbef75808db13ba01cc0aab4d1ac6",
+        "queries.jsonl": "8ff84a7c903f722981cd8d595c022660140c51867b27608a6d4910db86080313",
+        "qrels/test.tsv": "0864bb985e0ca2367ba217977e72004d549054b2b06666ed9d4825ac7c21284c"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:39.693382+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/docT5query/results/20261014T182619Z_parallel_e4ecf074_docT5query/arguana": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "ad254151379704b4404ae78f9b7c9c4eac030245f949a5ee662e943b749cc262",
+        "ranking.run.trec": "ba20613225a53f36c2ecfca5cf18f4c0e0370fdb11f161cdc29f8bf5aa6f5f32"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "0627982cec4ee896df6dc98604ef6b499c83fd87a19eaaeb3f23b88bbef6cbce",
+        "queries.jsonl": "f8b7c903f95d9a2d291de3915a8fac25085e9db679f19f59fea4145bfd1df618",
+        "qrels/test.tsv": "0c47b481fa8b47fb9ca5e74bc8a017bdea14518c0e4a5d21345291180b3aca76"
+      }
+    },
+    "verified_at": "2026-10-15T02:41:43.875299+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/BM25/results/20261014T171232Z_9c1e48db/nfcorpus": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "e84d97b49f423609982e2269576febf389e11ab49a9075d2360309a120d0dfb5",
+        "ranking.run.trec": "006a5bde7e5365d5f9fe90194b242cfc1c4c8e0dd58bd6b4935ef2cb31ad2e5f"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "10cc83ef1826b1425e6a87090b5140b39b27755d5a27e48215a88611c899991f",
+        "queries.jsonl": "d024e6621b84925d485ae473d316a0c3af31c62c8068a59fb29d22f7613aef2a",
+        "qrels/test.tsv": "f8fba6ef3d4dd9c3a242a8ba4ae38276fc3622fce7dcbae764766d564542fd2a"
+      }
+    },
+    "verified_at": "2026-10-15T02:42:18.656548+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "queries_with_zero_saved_hits": [
+      "PLAIN-1098",
+      "PLAIN-1214",
+      "PLAIN-1309",
+      "PLAIN-1611",
+      "PLAIN-1621",
+      "PLAIN-1679",
+      "PLAIN-1752",
+      "PLAIN-1827",
+      "PLAIN-2134",
+      "PLAIN-2209",
+      "PLAIN-2271",
+      "PLAIN-2396",
+      "PLAIN-2408",
+      "PLAIN-551",
+      "PLAIN-997"
+    ],
+    "legacy_input_hashes_absent": true
+  },
+  "/hdd2/devbe/code/beir/runs/DeepCT/results/20261014T182619Z_parallel_e4ecf074_DeepCT/nfcorpus": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "4b51c315c44a5f82edaa42652514cc40b95c15c64082aa65a7fa6d2e507ae31e",
+        "ranking.run.trec": "462d892cec8f3c58b092318639a23ca9138ccbda83df2f037bd22eba47fae6ac"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "10cc83ef1826b1425e6a87090b5140b39b27755d5a27e48215a88611c899991f",
+        "queries.jsonl": "d024e6621b84925d485ae473d316a0c3af31c62c8068a59fb29d22f7613aef2a",
+        "qrels/test.tsv": "f8fba6ef3d4dd9c3a242a8ba4ae38276fc3622fce7dcbae764766d564542fd2a"
+      }
+    },
+    "verified_at": "2026-10-15T02:42:23.922880+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "queries_with_zero_saved_hits": [
+      "PLAIN-1098",
+      "PLAIN-1214",
+      "PLAIN-1309",
+      "PLAIN-1611",
+      "PLAIN-1621",
+      "PLAIN-1679",
+      "PLAIN-1752",
+      "PLAIN-1827",
+      "PLAIN-2134",
+      "PLAIN-2209",
+      "PLAIN-2271",
+      "PLAIN-2396",
+      "PLAIN-2408",
+      "PLAIN-551",
+      "PLAIN-997"
+    ],
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/BM25+CE/results/20261014T182619Z_parallel_e4ecf074_BM25_CE/nfcorpus": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "f64db400dd15f9dda5cd35749c90a1903204816c91a107f4d3d472b6941fbedd",
+        "ranking.run.trec": "54f34a18e15e98eeda616c5d02456bfaab6338c8f04f6491f2822653a99f159a"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "10cc83ef1826b1425e6a87090b5140b39b27755d5a27e48215a88611c899991f",
+        "queries.jsonl": "d024e6621b84925d485ae473d316a0c3af31c62c8068a59fb29d22f7613aef2a",
+        "qrels/test.tsv": "f8fba6ef3d4dd9c3a242a8ba4ae38276fc3622fce7dcbae764766d564542fd2a"
+      }
+    },
+    "verified_at": "2026-10-15T02:42:25.781045+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "queries_with_zero_saved_hits": [
+      "PLAIN-1098",
+      "PLAIN-1214",
+      "PLAIN-1309",
+      "PLAIN-1611",
+      "PLAIN-1621",
+      "PLAIN-1679",
+      "PLAIN-1752",
+      "PLAIN-1827",
+      "PLAIN-2134",
+      "PLAIN-2209",
+      "PLAIN-2271",
+      "PLAIN-2396",
+      "PLAIN-2408",
+      "PLAIN-551",
+      "PLAIN-997"
+    ],
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/docT5query/results/20261014T182619Z_parallel_e4ecf074_docT5query/nfcorpus": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "09938e7235c104da9c59d5c585c94bbf2c851e08524bf5a7d765ef2bec81315c",
+        "ranking.run.trec": "dba0cb845e91e46dda436f4854007d0911c8b461511d54a68fa6f8ab1b19846b"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "10cc83ef1826b1425e6a87090b5140b39b27755d5a27e48215a88611c899991f",
+        "queries.jsonl": "d024e6621b84925d485ae473d316a0c3af31c62c8068a59fb29d22f7613aef2a",
+        "qrels/test.tsv": "f8fba6ef3d4dd9c3a242a8ba4ae38276fc3622fce7dcbae764766d564542fd2a"
+      }
+    },
+    "verified_at": "2026-10-15T02:42:26.351063+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "queries_with_zero_saved_hits": [
+      "PLAIN-1098",
+      "PLAIN-1214",
+      "PLAIN-1611",
+      "PLAIN-1621",
+      "PLAIN-1679",
+      "PLAIN-1752",
+      "PLAIN-1827",
+      "PLAIN-2134",
+      "PLAIN-2209",
+      "PLAIN-2271",
+      "PLAIN-2396",
+      "PLAIN-2408",
+      "PLAIN-551",
+      "PLAIN-997"
+    ],
+    "legacy_input_hashes_absent": false
+  }
+}

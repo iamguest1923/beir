@@ -1,0 +1,91 @@
+﻿model,dataset,status,NDCG@10,Recall@100,directory,error,legacy_input_hashes_absent
+BM25,nfcorpus,SUCCESS,0.32545,0.25005,/hdd2/devbe/code/beir/runs/BM25/results/20261014T171232Z_9c1e48db/nfcorpus,,True
+BM25,scifact,SUCCESS,0.6647,0.90756,/hdd2/devbe/code/beir/runs/BM25/results/20261014T171232Z_9c1e48db/scifact,,True
+BM25,arguana,SUCCESS,0.41415,0.9431,/hdd2/devbe/code/beir/runs/BM25/results/20261014T171232Z_9c1e48db/arguana,,True
+BM25,scidocs,SUCCESS,0.15804,0.35648,/hdd2/devbe/code/beir/runs/BM25/results/20261015T024254Z_completion_a8cd4b36_BM25/scidocs,,False
+BM25,fiqa,SUCCESS,0.23607,0.53949,/hdd2/devbe/code/beir/runs/BM25/results/20261015T024254Z_completion_a8cd4b36_BM25/fiqa,,False
+BM25,trec-covid,SUCCESS,0.65775,0.11491,/hdd2/devbe/code/beir/runs/BM25/results/20261015T024254Z_completion_a8cd4b36_BM25/trec-covid,,False
+BM25,uit-viquad,SUCCESS,0.7685,0.97259,/hdd2/devbe/code/beir/runs/BM25/results/20261015T024254Z_completion_a8cd4b36_BM25/uit-viquad,,False
+BM25,vihealthqa,SUCCESS,0.39931,0.73025,/hdd2/devbe/code/beir/runs/BM25/results/20261015T024254Z_completion_a8cd4b36_BM25/vihealthqa,,False
+BM25,zalo-legal,SUCCESS,0.63317,0.91751,/hdd2/devbe/code/beir/runs/BM25/results/20261015T024254Z_completion_a8cd4b36_BM25/zalo-legal,,False
+ANCE,nfcorpus,SUCCESS,0.23566,0.23475,/hdd2/devbe/code/beir/runs/ANCE/results/20261014T094420Z_6a583e27/nfcorpus,,True
+ANCE,scifact,SUCCESS,0.51125,0.81867,/hdd2/devbe/code/beir/runs/ANCE/results/20261014T094420Z_6a583e27/scifact,,True
+ANCE,arguana,SUCCESS,0.41892,0.93457,/hdd2/devbe/code/beir/runs/ANCE/results/20261014T094420Z_6a583e27/arguana,,True
+ANCE,scidocs,SUCCESS,0.12187,0.26928,/hdd2/devbe/code/beir/runs/ANCE/results/20261014T094420Z_6a583e27/scidocs,,True
+ANCE,fiqa,SUCCESS,0.29499,0.58056,/hdd2/devbe/code/beir/runs/ANCE/results/20261014T094420Z_6a583e27/fiqa,,True
+ANCE,trec-covid,SUCCESS,0.65245,0.10016,/hdd2/devbe/code/beir/runs/ANCE/results/20261014T094420Z_6a583e27/trec-covid,,True
+ANCE,uit-viquad,SUCCESS,0.17487,0.47411,/hdd2/devbe/code/beir/runs/ANCE/results/20261015T024254Z_completion_a8cd4b36_ANCE/uit-viquad,,False
+ANCE,vihealthqa,SUCCESS,0.1122,0.32787,/hdd2/devbe/code/beir/runs/ANCE/results/20261015T024254Z_completion_a8cd4b36_ANCE/vihealthqa,,False
+ANCE,zalo-legal,SUCCESS,0.10245,0.26523,/hdd2/devbe/code/beir/runs/ANCE/results/20261015T024254Z_completion_a8cd4b36_ANCE/zalo-legal,,False
+TAS-B,nfcorpus,SUCCESS,0.31886,0.28012,/hdd2/devbe/code/beir/runs/TAS-B/results/20261014T182619Z_parallel_e4ecf074_TAS-B/nfcorpus,,False
+TAS-B,scifact,SUCCESS,0.64276,0.891,/hdd2/devbe/code/beir/runs/TAS-B/results/20261014T182619Z_parallel_e4ecf074_TAS-B/scifact,,False
+TAS-B,arguana,SUCCESS,0.427,0.94168,/hdd2/devbe/code/beir/runs/TAS-B/results/20261014T182619Z_parallel_e4ecf074_TAS-B/arguana,,False
+TAS-B,scidocs,SUCCESS,0.14859,0.33462,/hdd2/devbe/code/beir/runs/TAS-B/results/20261014T182619Z_parallel_e4ecf074_TAS-B/scidocs,,False
+TAS-B,fiqa,SUCCESS,0.30024,0.59293,/hdd2/devbe/code/beir/runs/TAS-B/results/20261014T182619Z_parallel_e4ecf074_TAS-B/fiqa,,False
+TAS-B,trec-covid,SUCCESS,0.48115,0.08563,/hdd2/devbe/code/beir/runs/TAS-B/results/20261014T182619Z_parallel_e4ecf074_TAS-B/trec-covid,,False
+TAS-B,uit-viquad,SUCCESS,0.22892,0.58173,/hdd2/devbe/code/beir/runs/TAS-B/results/20261015T024254Z_completion_a8cd4b36_TAS-B/uit-viquad,,False
+TAS-B,vihealthqa,SUCCESS,0.13203,0.40586,/hdd2/devbe/code/beir/runs/TAS-B/results/20261015T024254Z_completion_a8cd4b36_TAS-B/vihealthqa,,False
+TAS-B,zalo-legal,SUCCESS,0.15096,0.34074,/hdd2/devbe/code/beir/runs/TAS-B/results/20261015T024254Z_completion_a8cd4b36_TAS-B/zalo-legal,,False
+DPR,nfcorpus,SUCCESS,0.1881,0.2082,/hdd2/devbe/code/beir/runs/DPR/results/20261014T182619Z_parallel_e4ecf074_DPR/nfcorpus,,False
+DPR,scifact,SUCCESS,0.31775,0.72689,/hdd2/devbe/code/beir/runs/DPR/results/20261014T182619Z_parallel_e4ecf074_DPR/scifact,,False
+DPR,arguana,SUCCESS,0.17488,0.74964,/hdd2/devbe/code/beir/runs/DPR/results/20261014T182619Z_parallel_e4ecf074_DPR/arguana,,False
+DPR,scidocs,SUCCESS,0.07654,0.2181,/hdd2/devbe/code/beir/runs/DPR/results/20261014T182619Z_parallel_e4ecf074_DPR/scidocs,,False
+DPR,fiqa,SUCCESS,0.11188,0.34258,/hdd2/devbe/code/beir/runs/DPR/results/20261014T182619Z_parallel_e4ecf074_DPR/fiqa,,False
+DPR,trec-covid,SUCCESS,0.33337,0.04732,/hdd2/devbe/code/beir/runs/DPR/results/20261014T182619Z_parallel_e4ecf074_DPR/trec-covid,,False
+DPR,uit-viquad,SUCCESS,0.04646,0.19137,/hdd2/devbe/code/beir/runs/DPR/results/20261015T024254Z_completion_a8cd4b36_DPR/uit-viquad,,False
+DPR,vihealthqa,SUCCESS,0.02436,0.12072,/hdd2/devbe/code/beir/runs/DPR/results/20261015T024254Z_completion_a8cd4b36_DPR/vihealthqa,,False
+DPR,zalo-legal,SUCCESS,0.00277,0.03173,/hdd2/devbe/code/beir/runs/DPR/results/20261015T024254Z_completion_a8cd4b36_DPR/zalo-legal,,False
+DeepCT,nfcorpus,SUCCESS,0.32047,0.25182,/hdd2/devbe/code/beir/runs/DeepCT/results/20261014T182619Z_parallel_e4ecf074_DeepCT/nfcorpus,,False
+DeepCT,scifact,SUCCESS,0.6859,0.92133,/hdd2/devbe/code/beir/runs/DeepCT/results/20261014T182619Z_parallel_e4ecf074_DeepCT/scifact,,False
+DeepCT,arguana,SUCCESS,0.42841,0.94808,/hdd2/devbe/code/beir/runs/DeepCT/results/20261014T182619Z_parallel_e4ecf074_DeepCT/arguana,,False
+DeepCT,scidocs,SUCCESS,0.14924,0.34733,/hdd2/devbe/code/beir/runs/DeepCT/results/20261014T182619Z_parallel_e4ecf074_DeepCT/scidocs,,False
+DeepCT,fiqa,SUCCESS,0.25366,0.54481,/hdd2/devbe/code/beir/runs/DeepCT/results/20261014T182619Z_parallel_e4ecf074_DeepCT/fiqa,,False
+DeepCT,trec-covid,SUCCESS,0.5787,0.11351,/hdd2/devbe/code/beir/runs/DeepCT/results/20261014T182619Z_parallel_e4ecf074_DeepCT/trec-covid,,False
+DeepCT,uit-viquad,SUCCESS,0.33024,0.62741,/hdd2/devbe/code/beir/runs/DeepCT/results/20261015T024254Z_completion_a8cd4b36_DeepCT/uit-viquad,,False
+DeepCT,vihealthqa,SUCCESS,0.1259,0.35817,/hdd2/devbe/code/beir/runs/DeepCT/results/20261015T024254Z_completion_a8cd4b36_DeepCT/vihealthqa,,False
+DeepCT,zalo-legal,SUCCESS,0.05414,0.27538,/hdd2/devbe/code/beir/runs/DeepCT/results/20261015T024254Z_completion_a8cd4b36_DeepCT/zalo-legal,,False
+SPARTA,nfcorpus,SUCCESS,0.30091,0.24333,/hdd2/devbe/code/beir/runs/SPARTA/results/20261014T174813Z_92902bec_SPARTA/nfcorpus,,False
+SPARTA,scifact,SUCCESS,0.59784,0.859,/hdd2/devbe/code/beir/runs/SPARTA/results/20261014T174813Z_92902bec_SPARTA/scifact,,False
+SPARTA,arguana,SUCCESS,0.37103,0.89331,/hdd2/devbe/code/beir/runs/SPARTA/results/20261014T174813Z_92902bec_SPARTA/arguana,,False
+SPARTA,scidocs,SUCCESS,0.12573,0.29742,/hdd2/devbe/code/beir/runs/SPARTA/results/20261014T174813Z_92902bec_SPARTA/scidocs,,False
+SPARTA,fiqa,SUCCESS,0.19773,0.44604,/hdd2/devbe/code/beir/runs/SPARTA/results/20261014T174813Z_92902bec_SPARTA/fiqa,,False
+SPARTA,trec-covid,SUCCESS,0.53733,0.0914,/hdd2/devbe/code/beir/runs/SPARTA/results/20261014T174813Z_92902bec_SPARTA/trec-covid,,False
+SPARTA,uit-viquad,SUCCESS,0.2987,0.64518,/hdd2/devbe/code/beir/runs/SPARTA/results/20261015T024254Z_completion_a8cd4b36_SPARTA/uit-viquad,,False
+SPARTA,vihealthqa,SUCCESS,0.19593,0.46647,/hdd2/devbe/code/beir/runs/SPARTA/results/20261015T024254Z_completion_a8cd4b36_SPARTA/vihealthqa,,False
+SPARTA,zalo-legal,SUCCESS,0.24275,0.46066,/hdd2/devbe/code/beir/runs/SPARTA/results/20261015T024254Z_completion_a8cd4b36_SPARTA/zalo-legal,,False
+BM25+CE,nfcorpus,SUCCESS,0.35042,0.25005,/hdd2/devbe/code/beir/runs/BM25+CE/results/20261014T182619Z_parallel_e4ecf074_BM25_CE/nfcorpus,,False
+BM25+CE,scifact,SUCCESS,0.68755,0.90756,/hdd2/devbe/code/beir/runs/BM25+CE/results/20261014T182619Z_parallel_e4ecf074_BM25_CE/scifact,,False
+BM25+CE,arguana,SUCCESS,0.4172,0.9431,/hdd2/devbe/code/beir/runs/BM25+CE/results/20261014T182619Z_parallel_e4ecf074_BM25_CE/arguana,,False
+BM25+CE,scidocs,SUCCESS,0.16614,0.35648,/hdd2/devbe/code/beir/runs/BM25+CE/results/20261015T010034Z_recovery_ea58b155_BM25_CE/scidocs,,False
+BM25+CE,fiqa,SUCCESS,0.34744,0.53949,/hdd2/devbe/code/beir/runs/BM25+CE/results/20261015T010034Z_recovery_ea58b155_BM25_CE/fiqa,,False
+BM25+CE,trec-covid,SUCCESS,0.75496,0.11491,/hdd2/devbe/code/beir/runs/BM25+CE/results/20261015T010034Z_recovery_ea58b155_BM25_CE/trec-covid,,False
+BM25+CE,uit-viquad,SUCCESS,0.5816,0.97259,/hdd2/devbe/code/beir/runs/BM25+CE/results/20261015T024254Z_completion_a8cd4b36_BM25_CE/uit-viquad,,False
+BM25+CE,vihealthqa,SUCCESS,0.31476,0.73025,/hdd2/devbe/code/beir/runs/BM25+CE/results/20261015T024254Z_completion_a8cd4b36_BM25_CE/vihealthqa,,False
+BM25+CE,zalo-legal,SUCCESS,0.45505,0.91751,/hdd2/devbe/code/beir/runs/BM25+CE/results/20261015T024254Z_completion_a8cd4b36_BM25_CE/zalo-legal,,False
+ColBERT,nfcorpus,SUCCESS,0.30464,0.25659,/hdd2/devbe/code/beir/runs/ColBERT/results/20261014T182619Z_parallel_e4ecf074_ColBERT/nfcorpus,,False
+ColBERT,scifact,SUCCESS,0.67168,0.87767,/hdd2/devbe/code/beir/runs/ColBERT/results/20261014T182619Z_parallel_e4ecf074_ColBERT/scifact,,False
+ColBERT,arguana,SUCCESS,0.4053,0.88691,/hdd2/devbe/code/beir/runs/ColBERT/results/20261015T010034Z_recovery_ea58b155_ColBERT/arguana,,False
+ColBERT,scidocs,SUCCESS,0.14547,0.34562,/hdd2/devbe/code/beir/runs/ColBERT/results/20261015T010034Z_recovery_ea58b155_ColBERT/scidocs,,False
+ColBERT,fiqa,SUCCESS,0.31598,0.61347,/hdd2/devbe/code/beir/runs/ColBERT/results/20261015T010034Z_recovery_ea58b155_ColBERT/fiqa,,False
+ColBERT,trec-covid,SUCCESS,0.68125,0.10684,/hdd2/devbe/code/beir/runs/ColBERT/results/20261014T182619Z_parallel_e4ecf074_ColBERT/trec-covid,,False
+ColBERT,uit-viquad,SUCCESS,0.48014,0.79543,/hdd2/devbe/code/beir/runs/ColBERT/results/20261015T024254Z_completion_a8cd4b36_ColBERT/uit-viquad,,False
+ColBERT,vihealthqa,SUCCESS,0.24544,0.51863,/hdd2/devbe/code/beir/runs/ColBERT/results/20261015T024254Z_completion_a8cd4b36_ColBERT/vihealthqa,,False
+ColBERT,zalo-legal,SUCCESS,0.30538,0.58693,/hdd2/devbe/code/beir/runs/ColBERT/results/20261015T024254Z_completion_a8cd4b36_ColBERT/zalo-legal,,False
+GenQ,nfcorpus,PENDING,,,,"OutOfMemoryError: CUDA out of memory. Tried to allocate 182.00 MiB. GPU 0 has a total capacity of 23.60 GiB of which 95.19 MiB is free. Process 9268 has 864.00 MiB memory in use. Process 2766756 has 1.39 GiB memory in use. Process 1834718 has 1.19 GiB memory in use. Process 2075842 has 2.06 GiB memory in use. Process 2075843 has 1.46 GiB memory in use. Process 2075840 has 1.15 GiB memory in use. Process 2075841 has 7.91 GiB memory in use. Including non-PyTorch memory, this process has 5.42 GiB memory in use. Process 2075846 has 788.00 MiB memory in use. Process 2218003 has 1.25 GiB memory in use. Of the allocated memory 5.08 GiB is allocated by PyTorch, and 58.87 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)",
+GenQ,scifact,PENDING,,,,"OutOfMemoryError: CUDA out of memory. Tried to allocate 58.00 MiB. GPU 0 has a total capacity of 23.60 GiB of which 34.75 MiB is free. Process 9268 has 864.00 MiB memory in use. Process 2766756 has 1.39 GiB memory in use. Process 1834718 has 1.19 GiB memory in use. Process 2075842 has 2.20 GiB memory in use. Process 2075843 has 1.47 GiB memory in use. Process 2075840 has 1.15 GiB memory in use. Process 2075841 has 8.07 GiB memory in use. Including non-PyTorch memory, this process has 5.93 GiB memory in use. Process 2542166 has 1.25 GiB memory in use. Of the allocated memory 5.64 GiB is allocated by PyTorch, and 16.96 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)",
+GenQ,arguana,PENDING,,,,"OutOfMemoryError: CUDA out of memory. Tried to allocate 192.00 MiB. GPU 0 has a total capacity of 23.60 GiB of which 24.75 MiB is free. Process 9268 has 864.00 MiB memory in use. Process 2766756 has 1.39 GiB memory in use. Process 1834718 has 1.19 GiB memory in use. Process 2075842 has 2.04 GiB memory in use. Process 2075843 has 1.48 GiB memory in use. Process 2075840 has 1.30 GiB memory in use. Process 2075841 has 8.03 GiB memory in use. Including non-PyTorch memory, this process has 5.98 GiB memory in use. Process 2542166 has 1.25 GiB memory in use. Of the allocated memory 5.60 GiB is allocated by PyTorch, and 114.08 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)",
+GenQ,scidocs,PENDING,,,,No verified completed result,
+GenQ,fiqa,PENDING,,,,No verified completed result,
+GenQ,trec-covid,PENDING,,,,No verified completed result,
+GenQ,uit-viquad,PENDING,,,,No verified completed result,
+GenQ,vihealthqa,PENDING,,,,No verified completed result,
+GenQ,zalo-legal,PENDING,,,,No verified completed result,
+docT5query,nfcorpus,SUCCESS,0.32807,0.25771,/hdd2/devbe/code/beir/runs/docT5query/results/20261014T182619Z_parallel_e4ecf074_docT5query/nfcorpus,,False
+docT5query,scifact,SUCCESS,0.67537,0.91322,/hdd2/devbe/code/beir/runs/docT5query/results/20261014T182619Z_parallel_e4ecf074_docT5query/scifact,,False
+docT5query,arguana,SUCCESS,0.46285,0.96657,/hdd2/devbe/code/beir/runs/docT5query/results/20261014T182619Z_parallel_e4ecf074_docT5query/arguana,,False
+docT5query,scidocs,PENDING,,,,No verified completed result,
+docT5query,fiqa,PENDING,,,,No verified completed result,
+docT5query,trec-covid,PENDING,,,,No verified completed result,
+docT5query,uit-viquad,PENDING,,,,No verified completed result,
+docT5query,vihealthqa,PENDING,,,,No verified completed result,
+docT5query,zalo-legal,PENDING,,,,No verified completed result,

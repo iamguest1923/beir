@@ -1,0 +1,50 @@
+{
+  "metric": "Recall@100",
+  "datasets": [
+    "scidocs",
+    "fiqa",
+    "trec-covid"
+  ],
+  "models": [
+    "BM25",
+    "ANCE",
+    "TAS-B",
+    "DPR",
+    "DeepCT",
+    "SPARTA",
+    "BM25+CE",
+    "ColBERT"
+  ],
+  "values": {
+    "scidocs": {
+      "BM25": 0.35648,
+      "ANCE": 0.26928,
+      "TAS-B": 0.33462,
+      "DPR": 0.2181,
+      "DeepCT": 0.34733,
+      "SPARTA": 0.29742,
+      "BM25+CE": 0.35648,
+      "ColBERT": 0.34562
+    },
+    "fiqa": {
+      "BM25": 0.53949,
+      "ANCE": 0.58056,
+      "TAS-B": 0.59293,
+      "DPR": 0.34258,
+      "DeepCT": 0.54481,
+      "SPARTA": 0.44604,
+      "BM25+CE": 0.53949,
+      "ColBERT": 0.61347
+    },
+    "trec-covid": {
+      "BM25": 0.11491,
+      "ANCE": 0.10016,
+      "TAS-B": 0.08563,
+      "DPR": 0.04732,
+      "DeepCT": 0.11351,
+      "SPARTA": 0.0914,
+      "BM25+CE": 0.11491,
+      "ColBERT": 0.10684
+    }
+  }
+}

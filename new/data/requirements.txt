@@ -1,0 +1,3 @@
+# Conversion uses Python standard library except for CSConDa Parquet files.
+pyarrow>=14
+# Evaluation uses the dependencies already declared by this BEIR project.

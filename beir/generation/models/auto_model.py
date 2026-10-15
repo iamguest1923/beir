@@ -46,6 +46,7 @@ class QGenModel:
             if not temperature:
                 outs = self.model.generate(
                     input_ids=encodings["input_ids"].to(self.device),
+                    attention_mask=encodings["attention_mask"].to(self.device),
                     do_sample=True,
                     max_length=max_length,  # 64
                     top_k=top_k,  # 25
@@ -55,6 +56,7 @@ class QGenModel:
             else:
                 outs = self.model.generate(
                     input_ids=encodings["input_ids"].to(self.device),
+                    attention_mask=encodings["attention_mask"].to(self.device),
                     do_sample=True,
                     max_length=max_length,  # 64
                     top_k=top_k,  # 25

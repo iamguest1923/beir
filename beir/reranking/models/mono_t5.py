@@ -4,6 +4,7 @@ from __future__ import annotations
 
 from collections.abc import Mapping
 from dataclasses import dataclass
+from typing import Union
 
 import torch
 from tqdm.autonotebook import trange
@@ -15,7 +16,7 @@ from transformers import (
     T5ForConditionalGeneration,
 )
 
-TokenizerReturnType = Mapping[str, torch.Tensor | list[int] | list[list[int], list[list[str]]]]
+TokenizerReturnType = Mapping[str, Union[torch.Tensor, list[int], list[list[int]], list[list[str]]]]
 
 
 @dataclass

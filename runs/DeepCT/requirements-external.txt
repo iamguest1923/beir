@@ -1,0 +1,4 @@
+# Isolated environment only. Do not install into the ANCE/BEIR environment.
+tensorflow[and-cuda]==2.15.1
+numpy==1.26.4
+tqdm==4.67.1
