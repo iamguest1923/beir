@@ -74,7 +74,7 @@ def fetch_snapshot(spec, offline=False):
         weights = ["model.safetensors"] if "model.safetensors" in files else ["pytorch_model.bin"]
         if not any(f in files for f in weights):
             raise ValueError("Expected a supported, unsharded Sentence Transformers checkpoint")
-        chosen = [f for f in files if (f in weights or f.endswith((".json", ".txt", ".model", ".bpe")))
+        chosen = [f for f in files if (f in weights or f == "bpe.codes" or f.endswith((".json", ".txt", ".model", ".bpe", ".vocab", ".spm")))
                   and not f.startswith(("onnx/", "openvino/"))]
         return Path(snapshot_download(spec["model"], revision=spec["revision"],
                                       allow_patterns=chosen, max_workers=2))

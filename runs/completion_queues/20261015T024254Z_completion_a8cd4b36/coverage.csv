@@ -71,21 +71,21 @@ ColBERT,trec-covid,SUCCESS,0.68125,0.10684,/hdd2/devbe/code/beir/runs/ColBERT/re
 ColBERT,uit-viquad,SUCCESS,0.48014,0.79543,/hdd2/devbe/code/beir/runs/ColBERT/results/20261015T024254Z_completion_a8cd4b36_ColBERT/uit-viquad,,False
 ColBERT,vihealthqa,SUCCESS,0.24544,0.51863,/hdd2/devbe/code/beir/runs/ColBERT/results/20261015T024254Z_completion_a8cd4b36_ColBERT/vihealthqa,,False
 ColBERT,zalo-legal,SUCCESS,0.30538,0.58693,/hdd2/devbe/code/beir/runs/ColBERT/results/20261015T024254Z_completion_a8cd4b36_ColBERT/zalo-legal,,False
-GenQ,nfcorpus,PENDING,,,,"OutOfMemoryError: CUDA out of memory. Tried to allocate 182.00 MiB. GPU 0 has a total capacity of 23.60 GiB of which 95.19 MiB is free. Process 9268 has 864.00 MiB memory in use. Process 2766756 has 1.39 GiB memory in use. Process 1834718 has 1.19 GiB memory in use. Process 2075842 has 2.06 GiB memory in use. Process 2075843 has 1.46 GiB memory in use. Process 2075840 has 1.15 GiB memory in use. Process 2075841 has 7.91 GiB memory in use. Including non-PyTorch memory, this process has 5.42 GiB memory in use. Process 2075846 has 788.00 MiB memory in use. Process 2218003 has 1.25 GiB memory in use. Of the allocated memory 5.08 GiB is allocated by PyTorch, and 58.87 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)",
-GenQ,scifact,PENDING,,,,"OutOfMemoryError: CUDA out of memory. Tried to allocate 58.00 MiB. GPU 0 has a total capacity of 23.60 GiB of which 34.75 MiB is free. Process 9268 has 864.00 MiB memory in use. Process 2766756 has 1.39 GiB memory in use. Process 1834718 has 1.19 GiB memory in use. Process 2075842 has 2.20 GiB memory in use. Process 2075843 has 1.47 GiB memory in use. Process 2075840 has 1.15 GiB memory in use. Process 2075841 has 8.07 GiB memory in use. Including non-PyTorch memory, this process has 5.93 GiB memory in use. Process 2542166 has 1.25 GiB memory in use. Of the allocated memory 5.64 GiB is allocated by PyTorch, and 16.96 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)",
-GenQ,arguana,PENDING,,,,"OutOfMemoryError: CUDA out of memory. Tried to allocate 192.00 MiB. GPU 0 has a total capacity of 23.60 GiB of which 24.75 MiB is free. Process 9268 has 864.00 MiB memory in use. Process 2766756 has 1.39 GiB memory in use. Process 1834718 has 1.19 GiB memory in use. Process 2075842 has 2.04 GiB memory in use. Process 2075843 has 1.48 GiB memory in use. Process 2075840 has 1.30 GiB memory in use. Process 2075841 has 8.03 GiB memory in use. Including non-PyTorch memory, this process has 5.98 GiB memory in use. Process 2542166 has 1.25 GiB memory in use. Of the allocated memory 5.60 GiB is allocated by PyTorch, and 114.08 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)",
-GenQ,scidocs,PENDING,,,,No verified completed result,
-GenQ,fiqa,PENDING,,,,No verified completed result,
-GenQ,trec-covid,PENDING,,,,No verified completed result,
-GenQ,uit-viquad,PENDING,,,,No verified completed result,
-GenQ,vihealthqa,PENDING,,,,No verified completed result,
-GenQ,zalo-legal,PENDING,,,,No verified completed result,
+GenQ,nfcorpus,SUCCESS,0.31875,0.2863,/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ/nfcorpus,,False
+GenQ,scifact,SUCCESS,0.64838,0.89433,/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ/scifact,,False
+GenQ,arguana,SUCCESS,0.47959,0.97084,/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ/arguana,,False
+GenQ,scidocs,SUCCESS,0.1449,0.34123,/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ/scidocs,,False
+GenQ,fiqa,SUCCESS,0.30355,0.60831,/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ/fiqa,,False
+GenQ,trec-covid,SUCCESS,0.59108,0.1042,/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ/trec-covid,,False
+GenQ,uit-viquad,SUCCESS,0.32047,0.70355,/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ/uit-viquad,,False
+GenQ,vihealthqa,SUCCESS,0.23337,0.52012,/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ/vihealthqa,,False
+GenQ,zalo-legal,SUCCESS,0.40486,0.74048,/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ/zalo-legal,,False
 docT5query,nfcorpus,SUCCESS,0.32807,0.25771,/hdd2/devbe/code/beir/runs/docT5query/results/20261014T182619Z_parallel_e4ecf074_docT5query/nfcorpus,,False
 docT5query,scifact,SUCCESS,0.67537,0.91322,/hdd2/devbe/code/beir/runs/docT5query/results/20261014T182619Z_parallel_e4ecf074_docT5query/scifact,,False
 docT5query,arguana,SUCCESS,0.46285,0.96657,/hdd2/devbe/code/beir/runs/docT5query/results/20261014T182619Z_parallel_e4ecf074_docT5query/arguana,,False
-docT5query,scidocs,PENDING,,,,No verified completed result,
-docT5query,fiqa,PENDING,,,,No verified completed result,
-docT5query,trec-covid,PENDING,,,,No verified completed result,
-docT5query,uit-viquad,PENDING,,,,No verified completed result,
-docT5query,vihealthqa,PENDING,,,,No verified completed result,
-docT5query,zalo-legal,PENDING,,,,No verified completed result,
+docT5query,scidocs,SUCCESS,0.16437,0.36757,/hdd2/devbe/code/beir/runs/docT5query/results/20261015T024254Z_completion_a8cd4b36_docT5query/scidocs,,False
+docT5query,fiqa,SUCCESS,0.27987,0.58266,/hdd2/devbe/code/beir/runs/docT5query/results/20261015T024254Z_completion_a8cd4b36_docT5query/fiqa,,False
+docT5query,trec-covid,SUCCESS,0.678,0.1255,/hdd2/devbe/code/beir/runs/docT5query/results/20261015T024254Z_completion_a8cd4b36_docT5query/trec-covid,,False
+docT5query,uit-viquad,SUCCESS,0.75753,0.97259,/hdd2/devbe/code/beir/runs/docT5query/results/20261015T024254Z_completion_a8cd4b36_docT5query/uit-viquad,,False
+docT5query,vihealthqa,SUCCESS,0.3702,0.71038,/hdd2/devbe/code/beir/runs/docT5query/results/20261015T024254Z_completion_a8cd4b36_docT5query/vihealthqa,,False
+docT5query,zalo-legal,SUCCESS,0.64226,0.92005,/hdd2/devbe/code/beir/runs/docT5query/results/20261015T024254Z_completion_a8cd4b36_docT5query/zalo-legal,,False

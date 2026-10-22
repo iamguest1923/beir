@@ -1644,5 +1644,260 @@
     "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
     "queries_with_zero_saved_hits": [],
     "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ/nfcorpus": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "e8e0578b18f24634922940459e5446bb9a7d2b4c6c9103bd5c48acf8238d8d8f",
+        "ranking.run.trec": "90b9d195c4deabc95c0c066e14b63793247c3e6783abb91160c38b1feff8e4ed"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "10cc83ef1826b1425e6a87090b5140b39b27755d5a27e48215a88611c899991f",
+        "queries.jsonl": "d024e6621b84925d485ae473d316a0c3af31c62c8068a59fb29d22f7613aef2a",
+        "qrels/test.tsv": "f8fba6ef3d4dd9c3a242a8ba4ae38276fc3622fce7dcbae764766d564542fd2a"
+      }
+    },
+    "verified_at": "2026-10-16T10:27:42.798590+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "queries_with_zero_saved_hits": [],
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ/scifact": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "7f7e330eb03d3f882fa999416da159ce182267a587c6099d4f9901acf1244480",
+        "ranking.run.trec": "8370f2fa8a8ac40598b1999fcbe4cc07097ad289a7880a8bdf78656d9bb2fa82"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "dec31c8182f3d744c7d2c09423756fd1d17cbef75808db13ba01cc0aab4d1ac6",
+        "queries.jsonl": "8ff84a7c903f722981cd8d595c022660140c51867b27608a6d4910db86080313",
+        "qrels/test.tsv": "0864bb985e0ca2367ba217977e72004d549054b2b06666ed9d4825ac7c21284c"
+      }
+    },
+    "verified_at": "2026-10-16T10:27:43.622506+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "queries_with_zero_saved_hits": [],
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ/arguana": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "f136bd644c2d9d08904d493c17239e9d77b0b88d38cf06da5a79d5101de1d83f",
+        "ranking.run.trec": "111984f02b6b45660ba59d1df180fb3fa05317a57b32bc57de0fb37931f5fbec"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "0627982cec4ee896df6dc98604ef6b499c83fd87a19eaaeb3f23b88bbef6cbce",
+        "queries.jsonl": "f8b7c903f95d9a2d291de3915a8fac25085e9db679f19f59fea4145bfd1df618",
+        "qrels/test.tsv": "0c47b481fa8b47fb9ca5e74bc8a017bdea14518c0e4a5d21345291180b3aca76"
+      }
+    },
+    "verified_at": "2026-10-16T10:27:47.570852+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "queries_with_zero_saved_hits": [],
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ/scidocs": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "07dec59201fb55f9c51a73d76d0ea3a16d7e49513969f1046b5535028e0952ed",
+        "ranking.run.trec": "18f39cbbbf1bd7b259a7c9cd6abf7922d5994c7a5acb79e9f3d70bad763ba681"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "328bb38854179c83ee40d4f49fae2ef7209ede7163785193cbdcd5906b28eecc",
+        "queries.jsonl": "3c85b68419bd579ff52edb58f9e7b32eb3d18bc83435edb71dbb68aaf79531d6",
+        "qrels/test.tsv": "dcd3d7f77417294bb6f338537f3c28d8a5ea72b30fe6633f407fa85528767e35"
+      }
+    },
+    "verified_at": "2026-10-16T10:27:50.671323+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "queries_with_zero_saved_hits": [],
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ/fiqa": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "186cb74ee86a130fe8e132b7769921d92867cc278ffc1e11768b0ed1dcb4c6a6",
+        "ranking.run.trec": "171123480c9710e6f17e325c4a7c6ae3c5f122b81d072fdaec23ed5498213f90"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "ff593e4df9933955dc3af83be0c3fa28ac7465f627e08c2e53593e734d506517",
+        "queries.jsonl": "eede1e61d4a0188940239b53ebc2da91f577a6a34679c812d1eb9090c29877bc",
+        "qrels/test.tsv": "6adc2a640dcdd22bb8b3858f89107adef2a7c3db20a63550dfa7a0f71e379e44"
+      }
+    },
+    "verified_at": "2026-10-16T10:27:52.412668+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "queries_with_zero_saved_hits": [],
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ/trec-covid": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "55353e9d24444d098455132a153c1e4c3a9cbceb719b6e9a7c6e3a901c1f6ee2",
+        "ranking.run.trec": "b8e6f8c9bec4355a2d5a2dfdaaf710265a65a98e624939f84c991ba19ebbb624"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "aded69896598665082316d00df487d22212cc5a8611db05db34eb40d04ed00d7",
+        "queries.jsonl": "78f4b76bfef251a0baf37a6cea5c4ba8376cb4536c34635709aaa4a2783b208c",
+        "qrels/test.tsv": "10669ab7d526cb04f52079139fd88c3d467a0776441b046567f540582798982b"
+      }
+    },
+    "verified_at": "2026-10-16T10:27:53.155749+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "queries_with_zero_saved_hits": [],
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ/uit-viquad": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "32a7e5bcad703fe7a767982bfd839099d22f41b1b32081903f05bc773e6cb60b",
+        "ranking.run.trec": "a96d3e1bbdf3b10cd1968bb6ae44fc83ec5905b011b2fcb03acabe92d44a80b5"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "8d1996665300517f2f60733f96da1df772880aabbeba04d18d4e278cdbcb835c",
+        "queries.jsonl": "a3e89031b79911e85360e4238a3e4cee0fd26e12f4d32006af781f0c76d7a181",
+        "qrels/test.tsv": "1f6bb24d392b0afc34a3b64bbd165f2ca02633ee8e924c0bf841731dfcab9e0d"
+      }
+    },
+    "verified_at": "2026-10-16T10:27:58.671751+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "queries_with_zero_saved_hits": [],
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ/vihealthqa": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "bec8d7b31db629b915d5d4b809b60cef0af25f8a57057bdc7ab23f87678fe462",
+        "ranking.run.trec": "97e2c53ef5ebebd81ebe3012c71ee4e6cbff11dcb48b62bea180754742dee3e8"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "48736882edbe0cca5dab98894c74c2ac4da35084c71e404e73a93b63b9da297b",
+        "queries.jsonl": "72f97e29d46b2185002b56518c5c54246ef280f94cca60cfe4bd7b7643213f95",
+        "qrels/test.tsv": "d0a7fda9b11f656f63a6cde1945f82609450297cf065548c0053affa397cc519"
+      }
+    },
+    "verified_at": "2026-10-16T10:28:04.381866+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "queries_with_zero_saved_hits": [],
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ/zalo-legal": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "3f3bc27b242402901ea984b9b28a2c0967a96c73aeabd95304f7ac9fa73d0b0e",
+        "ranking.run.trec": "c93a4883c7a581ba5cb3324125aa673c4d8e30b70a9f39ab77d3e44382935738"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "7202e1ee5be432c19abc9702dcbd50333dc0fd2982996b9d542e072ab701bfe5",
+        "queries.jsonl": "648bc1c082bcf29c3badd0cedbf65dc76662a8f35134ffc2e2c2397594ea9bb6",
+        "qrels/test.tsv": "21b41c5d49122cdcffa18fbfc319216ac305cad6fcedf39181482cde22141bc0"
+      }
+    },
+    "verified_at": "2026-10-16T10:28:06.799336+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "queries_with_zero_saved_hits": [],
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/docT5query/results/20261015T024254Z_completion_a8cd4b36_docT5query/scidocs": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "f87accaf3a66f51a50871c97afe534f008bf91137db85d7ae9acdf337560f51e",
+        "ranking.run.trec": "cf21c6777d8f18485ed442848bf10da933663010c217e5394c3f48b87cd70be1"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "328bb38854179c83ee40d4f49fae2ef7209ede7163785193cbdcd5906b28eecc",
+        "queries.jsonl": "3c85b68419bd579ff52edb58f9e7b32eb3d18bc83435edb71dbb68aaf79531d6",
+        "qrels/test.tsv": "dcd3d7f77417294bb6f338537f3c28d8a5ea72b30fe6633f407fa85528767e35"
+      }
+    },
+    "verified_at": "2026-10-17T12:34:37.542377+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "queries_with_zero_saved_hits": [],
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/docT5query/results/20261015T024254Z_completion_a8cd4b36_docT5query/fiqa": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "32d3df5276636564a5dd013628615cd16884cdfa449ed1d333d053fb92bc0dd1",
+        "ranking.run.trec": "8f61f3bbfddfde583ac69662beda1cd278ecb0c8cfcc4b7e9cb1beaefc9eedc1"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "ff593e4df9933955dc3af83be0c3fa28ac7465f627e08c2e53593e734d506517",
+        "queries.jsonl": "eede1e61d4a0188940239b53ebc2da91f577a6a34679c812d1eb9090c29877bc",
+        "qrels/test.tsv": "6adc2a640dcdd22bb8b3858f89107adef2a7c3db20a63550dfa7a0f71e379e44"
+      }
+    },
+    "verified_at": "2026-10-17T12:34:39.042410+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "queries_with_zero_saved_hits": [],
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/docT5query/results/20261015T024254Z_completion_a8cd4b36_docT5query/trec-covid": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "0b6474241c4d0cb04895a4d84182ded4f25a80e6fb8612d2d5dd443d6a8b92d5",
+        "ranking.run.trec": "759e9b2f42e461f52ab502008dd2b5a6e26c53668f0b52ffa1fafff8b4e0123b"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "aded69896598665082316d00df487d22212cc5a8611db05db34eb40d04ed00d7",
+        "queries.jsonl": "78f4b76bfef251a0baf37a6cea5c4ba8376cb4536c34635709aaa4a2783b208c",
+        "qrels/test.tsv": "10669ab7d526cb04f52079139fd88c3d467a0776441b046567f540582798982b"
+      }
+    },
+    "verified_at": "2026-10-17T12:34:39.346940+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "queries_with_zero_saved_hits": [],
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/docT5query/results/20261015T024254Z_completion_a8cd4b36_docT5query/uit-viquad": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "ecdab2bac176367e31ccedf4508feccbd46e7a2823c5c841c39d4b76780798d1",
+        "ranking.run.trec": "4b2e425540a1a3d28eb0c05a5e76a8de6ca14f82e8d7db1433ec93d9f446bd17"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "8d1996665300517f2f60733f96da1df772880aabbeba04d18d4e278cdbcb835c",
+        "queries.jsonl": "a3e89031b79911e85360e4238a3e4cee0fd26e12f4d32006af781f0c76d7a181",
+        "qrels/test.tsv": "1f6bb24d392b0afc34a3b64bbd165f2ca02633ee8e924c0bf841731dfcab9e0d"
+      }
+    },
+    "verified_at": "2026-10-17T12:34:44.731702+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "queries_with_zero_saved_hits": [],
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/docT5query/results/20261015T024254Z_completion_a8cd4b36_docT5query/vihealthqa": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "2237eed3f4c4a9c4d6e52e02a65120d5bba29be3325063a71dda78ddbd97c0fc",
+        "ranking.run.trec": "b3427888f39ae80cd251338bb5d45d65ccdc158d01be4603db51da5933ca6ea6"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "48736882edbe0cca5dab98894c74c2ac4da35084c71e404e73a93b63b9da297b",
+        "queries.jsonl": "72f97e29d46b2185002b56518c5c54246ef280f94cca60cfe4bd7b7643213f95",
+        "qrels/test.tsv": "d0a7fda9b11f656f63a6cde1945f82609450297cf065548c0053affa397cc519"
+      }
+    },
+    "verified_at": "2026-10-17T12:34:50.231040+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "queries_with_zero_saved_hits": [],
+    "legacy_input_hashes_absent": false
+  },
+  "/hdd2/devbe/code/beir/runs/docT5query/results/20261015T024254Z_completion_a8cd4b36_docT5query/zalo-legal": {
+    "fingerprint": {
+      "artifact_sha256": {
+        "metrics.json": "a449d9805267eedefcb5b4fc9188d07f7990c96fdd5471a7c8ab7e30b13639e5",
+        "ranking.run.trec": "544e12997ec41bdfe1457a364d21143497b3c7878188e99a523645f7fedcffa0"
+      },
+      "input_sha256": {
+        "corpus.jsonl": "7202e1ee5be432c19abc9702dcbd50333dc0fd2982996b9d542e072ab701bfe5",
+        "queries.jsonl": "648bc1c082bcf29c3badd0cedbf65dc76662a8f35134ffc2e2c2397594ea9bb6",
+        "qrels/test.tsv": "21b41c5d49122cdcffa18fbfc319216ac305cad6fcedf39181482cde22141bc0"
+      }
+    },
+    "verified_at": "2026-10-17T12:34:52.605924+00:00",
+    "checks": "input files, IDs, ranking coverage, checksums, recomputed metrics",
+    "queries_with_zero_saved_hits": [],
+    "legacy_input_hashes_absent": false
   }
 }

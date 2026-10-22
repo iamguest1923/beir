@@ -8,6 +8,30 @@ examples/**/models/
 examples/**/merged/
 examples/**/faiss-index/
 
+# Local benchmark environments and generated artifacts
+/runs/*_environment/
+/runs/**/results/
+/runs/**/cache/
+/runs/completion_queues/
+/runs/multilingual_queues/
+/runs/reports/
+/runs/.*-queue.lock
+/Báo cáo*.docx
+
+# Local credentials, editor settings and temporary files
+.env.*
+!.env.example
+!.env.sample
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+~$*
+*.swp
+*.swo
+*.tmp
+.ruff_cache/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

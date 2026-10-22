@@ -1,0 +1,2 @@
+# Use the BEIR runtime already installed; install in the isolated venv documented below.
+pyvi==0.1.1

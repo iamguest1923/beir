@@ -1,5 +1,5 @@
 {
-  "status": "RUNNING",
+  "status": "COMPLETE",
   "pid": 1016061,
   "directory": "/hdd2/devbe/code/beir/runs/completion_queues/20261015T024254Z_completion_a8cd4b36",
   "jobs": [
@@ -147,12 +147,14 @@
         "vihealthqa",
         "zalo-legal"
       ],
-      "status": "RUNNING",
+      "status": "SUCCESS",
       "lane": "GPU",
       "pid": 2717280,
       "started": 1792048307.232741,
       "log": "/hdd2/devbe/code/beir/runs/completion_queues/20261015T024254Z_completion_a8cd4b36/GenQ.log",
-      "directory": "/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ"
+      "directory": "/hdd2/devbe/code/beir/runs/GenQ/results/20261015T024254Z_completion_a8cd4b36_GenQ",
+      "exit_code": 0,
+      "elapsed_seconds": 98126.97656941414
     },
     {
       "model": "docT5query",
@@ -164,9 +166,16 @@
         "vihealthqa",
         "zalo-legal"
       ],
-      "status": "PENDING"
+      "status": "SUCCESS",
+      "lane": "GPU",
+      "pid": 354897,
+      "started": 1792146492.344946,
+      "log": "/hdd2/devbe/code/beir/runs/completion_queues/20261015T024254Z_completion_a8cd4b36/docT5query.log",
+      "directory": "/hdd2/devbe/code/beir/runs/docT5query/results/20261015T024254Z_completion_a8cd4b36_docT5query",
+      "exit_code": 0,
+      "elapsed_seconds": 93939.98847460747
     }
   ],
   "expected_pairs": 90,
-  "verified_pairs": 75
+  "verified_pairs": 90
 }
